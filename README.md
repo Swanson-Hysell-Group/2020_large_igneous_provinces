@@ -7,7 +7,21 @@
 * LIP distribution through time (heat map)
     * using a few different models:
         * no attenuation
-        * decay with half lives derived from present day areal extent - perhaps not necessary to have a separate model that accounts for burial
+        * decay with half lives derived from present day areal extent
+        * same as above, but accounting for burial
 * LIPs in the tropics through time
+    * with the same models as above
 * ice extent
 * statistics/correlation figure
+* global map showing LIP polygons - both present day and inferred original
+* table with columns:
+    * name
+    * eruption age
+    * original area
+    * present day area
+    * model half life
+    * buried or not buried
+
+### Text
+
+* xxx
