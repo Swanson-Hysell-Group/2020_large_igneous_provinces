@@ -24,4 +24,9 @@
 
 ### Text
 
-* xxx
+* LIP record
+    * mention that it is likely overestimate of original area
+    * discuss importance of post-emplacement history
+    * describe method
+* ice extent record
+* correlation between the two
