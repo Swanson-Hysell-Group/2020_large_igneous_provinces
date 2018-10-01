@@ -11,6 +11,8 @@
         * same as above, but accounting for burial
 * LIPs in the tropics through time
     * with the same models as above
+* fractional LIP area vs time since emplacement
+    * all LIPs to
 * ice extent
 * statistics/correlation figure
 * global map showing LIP polygons - both present day and inferred original
