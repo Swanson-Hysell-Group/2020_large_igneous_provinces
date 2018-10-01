@@ -8,6 +8,7 @@
     * using a few different models:
         * no attenuation
         * decay with half lives derived from present day areal extent
+        * potentially other decay scenarios such as linear
         * same as above, but accounting for burial
 * LIPs in the tropics through time
     * with the same models as above
