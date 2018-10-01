@@ -1,6 +1,5 @@
 ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,area_km2
 0,S,Whitsunday,,Australia,120-105,Brisbane-Duaringa,,120,438324.8323723577
-0,C,Great Dyke of Zimbabwe and satellites,,Zimbabwe craton,2574 Ma,Great Dyke and satellites,,2575,73369.8792334765
 0,C,Angayucham,,,Late Triassic,Angayucham terrane,,230,95417.5115273354
 0,C,Emeishan,,South China craton,258 Ma,Emeishan,,259,704071.4510831172
 0,C,Yakutsk-Vilyui,,Siberian craton,ca. 370,Yakutsk-Vilyui,,370,1143822.3022723389
@@ -14,67 +13,14 @@ ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,area_
 0,C,Kyrgyzatin,,,Devonian,Kyrgyzatin,,370,55112.1373806802
 0,C,Belaya River,,,560-430 Ma,Belaya River,,0,16766.2834163705
 0,C,Tarim (possibly incorrectly located),,Tarim craton,280 Ma,Tarim Block (possibly incorrectly located),,280,155526.6893766787
-0,C,Kalaro-Nimnyrsky,,Siberian craton,1880 Ma,Kalaro-Nimnyrsky,,1870,234028.0134044403
-0,C,Matachewan,,Superior craton,2480-2440 Ma,Matachewan,,2475,557635.5608678984
-0,C,Mistassini,,Superior craton,2510 Ma,Mistassini,,2505,109562.6249994694
-0,C,CircumSuperior,,Superior craton,2170 Ma,Payne River,,2170,20943.1918797471
-0,C,Ungava-Nipissing,,Superior craton,2220-2210 Ma,Ungava,,2220,574677.9628631852
-0,C,Biscotasing,,Superior craton,2170 Ma,Biscotasing,,2170,449868.4824144353
-0,C,Fort Frances,,Superior craton,2075 Ma,Fort Frances,,2075,166617.6522156629
-0,C,Kivalliq,,Laurentia,1750-1740 Ma,Cleaver,,1740,19213.9272913737
-0,C,Lac de Gras-Booth River,,Slave craton,2030-2023 Ma,Lac des Gras,,2030,73700.4955910835
-0,C,Hearne,,Slave craton,1900 Ma,Hearne,,1900,39067.7987082256
-0,C,MacKay,,Slave craton,2210 Ma,MacKay,,2210,55544.2157890385
-0,C,SW Slave Province (Dogrib),,Slave craton,2190-2180 Ma,Dogrib,,2190,41323.1777248683
-0,C,Kaminak,,Hearne craton,2500-2450 Ma,Kaminak,,2500,30425.3305095018
-0,C,Malley,,Slave craton,2230 Ma,Malley,,2230,52124.5138624883
-0,C,Tulemalu-MacQuoid,,Rae craton,2190 Ma,Tulemalu-MacQuoid,,2190,39163.0473547969
-0,C,Widgiemooltha,,Yilgarn craton,2418-2410 Ma,Widgiemooltha,,2420,453727.7786497234
-0,C,Bushveld,,Kaapvaal craton,2060 Ma,Bushveld intrusion plus rest of LIP,,2060,393109.9846850705
-0,C,Mashonaland,,Kalahari craton,1880 Ma,Mashonaland,,1880,180699.2914411779
-0,C,Melville Bugt,,Laurentia,1640 Ma,Melville Bugt,,1640,115273.3273340051
-0,C,Hame,,Baltica,1676-1640 Ma,Hame,,1670,12873.4045072430
-0,C,Sparrow- Christopher Island,,Laurentia,1831-1823 Ma,Sparrow,"this encloses both the dolerite part of the province and the 240,000 km2  minette part (Chrisotpher Island fm)",1830,351867.3499189596
-0,C,Kangamuit-MD3,,Nain craton,2030-2050 Ma,Kangamuit,,2050,91432.4818959372
-0,C,Kennedy,,Wyoming craton,2010 Ma,Kennedy,,2010,7161.1262125021
-0,C,Lac Esprit,,Superior craton,2070 Ma,Lac Esprit,,2070,70640.4095199538
-0,C,Griffin (Hurwitz),,Hearne craton,2111 Ma,Griffin (Hurwitz),,2111,124195.1712946665
-0,C,Xionger-Taihang,,North China craton,1770 Ma,Xionger-Taihang,,1780,271217.0447419562
-0,C,Para de Minas,,Sao Francisco,1714 Ma,Para de Minas,,1715,464071.1276406850
-0,C,East Kimberley,,,"1860, 1840, & 1830 Ma",East Kimberley,,1860,29693.4552052624
-0,C,Avanavero (north),,Amazonia,1790 Ma,Avanavero (Roraima),,1790,601386.0979289840
-0,C,CircumSuperior,,Superior craton,1885 Ma,New Quebec Orogen Cycle-2,,1885,34067.2715764640
-0,C,CircumSuperior,,Superior craton,1885-1881 Ma,Molson-Thompson-Fox River,,1885,97795.7670751373
-0,C,CircumSuperior,,Superior craton,1880 Ma,Chukotat,,1880,4404.1317641156
-0,C,CircumSuperior,,Superior craton,1885-1881 Ma,Pickle Crow,,1885,24069.0272157756
-0,C,CircumSuperior,,Superior craton,2170 Ma,Labrador Trough (New Quebec Orogen)  Cycle1,,1880,6429.6563264917
-0,C,Labrador Coast,,North Atlantic craton (Nain portion),2120 Ma,Labrador Coast,,2120,11420.2848887501
-0,C,Vestfold Hills-2,,,2240 Ma,Vestfold Hills-2,,2240,10756.1748533095
-0,C,Vestfold Hills-1 and Napier Complex-1,,,ca. 2400 Ma,Vestfold Hills-1,,2400,11009.9698710938
-0,C,Vestfold Hills-1 and Napier Complex-1,,,ca. 2400 Ma,Napier Complex-1,,2400,24479.1071820547
-0,C,Vestfold Hills-3,,,ca. 1750 Ma,Vestfold Hills-3,,1750,12312.8341312200
-0,C,Marathon,,Superior craton,2120-2100,Marathon,,2120,156113.2198376433
-0,C,Baltic Large Igneous province,,Karelian -Kola craton,2505-2490 Ma & 2445-2436 Ma,Northern Baltica-1,,2505,558104.1713512560
-0,C,Hekpoort,,Kaapvaal craton,2240 Ma,Hekpoort,,2240,199305.6500101754
-0,C,Mugford,,North Atlantic craton (Nain portion),1950 Ma,Mugford,,1950,1040.7492792801
-0,C,Florida,,Rio de La Plata craton,1790 Ma,Uruguayan,,1790,27931.0641176972
-0,C,Cheela Springs,,,2210 Ma,Cheela Springs,,2210,11871.7660305950
-0,C,Winagami,,Laurentia,?ca. 1750 Ma,Winagami,,1750,62563.1069976133
-0,C,Espinhao,,,1770 Ma,Espinhaco,,1770,50805.7834142607
-0,C,BN-1,,North Atlantic craton (Nain portion),2224-2204 Ma,BN1-MD1,,2224,41151.6198423819
-0,C,CircumSuperior,,Superior craton,"<2000 Ma, possibly 1970 or 1880 Ma",Flaherty-Haig-Sutton Inlier,,1880,51082.0936372879
-0,C,Catete,,,2400 Ma,Catete,,2400,10999.3765076880
-0,C,Caraiba-Jacurici River Valley,,,2060 Ma,Caraiba-Jacurici River Valley,,2060,4917.7423882253
-0,C,Kivalliq,,Laurentia,1750-1740 Ma,Pitz-Nueltin,,1750,24512.2754418556
 0,C,Umkondo,,Kalahari craton,1112-1106 Ma,Umkondo-Antarctica,,1110,216596.7277311856
 0,C,Gunbarrel (Western North America),,Laurentia,780 Ma,Gunbarrel-N,,780,630396.2270598874
-0,C,Franklin,,Laurentia,723 Ma,Franklin,,725,2549645.7576702856
 0,C,Franklin,,Laurentia,723 Ma,Thule,,725,67410.7451565828
 0,C,Gunbarrel (Western North America),,Laurentia,780 Ma,Gunbarrel-S,,780,202976.7539483596
 0,C,Blekinge-Dalarna,,Baltica,"946 (& 954, 966-978) Ma",Blekinge-Dalarna,,946,85745.9176286821
 0,C,Bir El Khzaim,,West African craton,ca. 850 Ma,Bir El Khzaim,,850,511504.5845855580
 0,C,Port Nolloh-Gannakouriep,,Kalahari craton,ca. 740 Ma,Gannakouriep-Port Nolloh,,790,48003.8869124536
-0,C,Umkondo,,Kalahari craton,1112-1106 Ma,Umkondo-Africa,,1109,2015349.1015743725
+0,C,Umkondo,,Kalahari craton,1112-1106 Ma,Umkondo-Africa,,1112,2015349.1015743725
 0,C-S,Kanding (South China),,South China craton,780 Ma,Kangding,,780,1168011.8182977033
 0,C,Mundine Well,,Western Australian craton,755 Ma,Mundine Well,,755,378580.1159932206
 0,C,Willouran-Gairdner,,South Australian craton,825 Ma,Wilouran-Gairdnar,,825,627162.0689575882
@@ -90,18 +36,9 @@ ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,area_
 0,C,Baltoscandian - Egersund,,Baltica,616 Ma,Baltoscandian,,615,60366.0944743193
 0,C,Catoctin,,Laurentia,560 Ma,Catoctin,,560,14143.0865112204
 0,C,Rincon del Tigre,,Amazonia,1110 Ma,Rincon Del Tigre and related units,,1110,209175.1517983547
-0,C,Baish (Arabian-Nubian),,,Ca. 850 Ma,Baish (Arabian-Nubian),,850,1658486.1950609230
 0,C,"HALIP (Sverdrup Basin Magmatic Province, Canada)",,,95 Ma,Queen Elizabeth Island,,95,426048.3101626757
 0,O,Wrangellia,,,ca. 230 Ma,Wrangelia South,,230,40537.3648373110
 0,O,Wrangellia,,,ca. 230 Ma,Wrangelia North,,230,62039.7683451112
-0,O,Ontong Java  (Greater Ontong Java),,,125-119 Ma & 94-86 Ma,Greater Ontong Java,,122,5194199.6265643490
-0,O,Manihiki Plateau,,,125-119 Ma,Manihiki Plateau,,122,841036.9393354092
-0,C,Kerguelen - Rajmahal,,,110 Ma & 86 Ma,Kerguelen,,120,1601235.8826518422
-0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,1551712.4043062394
-0,C,Parana,,,mainly 134-129 Ma,Parana,,134,2232732.4492223910
-0,C,Etendeka,,,138-122 Ma,Etendeka,,134,1072188.2887795386
-0,O,Shatsky Rise,,,150 Ma,Shatsky Rise,,150,418455.6782824149
-0,O,Sierra Leone Rise,,,70 Ma,Sierra Leone Rise,,70,274714.7522060668
 0,C,CAMP-Africa,,,204-191 Ma (peak at 200 Ma),CAMP-Africa,,201,4367025.0410956675
 0,C,CAMP-South America,,,204-191 Ma (peak at 200 Ma),CAMP-South America,,201,5462594.4219467938
 0,C,CAMP-Eastern North America (ENA),,,204-191 Ma (peak at 200 Ma),CAMP-North America,,201,1338606.3418901348
@@ -109,12 +46,6 @@ ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,area_
 0,C,CAMP-Europe,,,204-191 Ma (peak at 200 Ma),CAMP-Brittany,,201,13948.2694422095
 0,C,Karoo,,,183-179 Ma,Karoo (Africa),,183,3174830.9353777487
 0,C,Madagascar,,,mainly 90-84 Ma,Madagascar,,93,617886.1853618338
-0,O,Maud Rise,,,70 Ma,Maud Rise,,70,68073.1258551082
-0,O,Wallaby Plateau,,,96 Ma,Wallaby Plateau,,96,54017.7808721407
-0,C,Hess Rise,,,100 Ma,Hess Rise,,100,140589.9122667468
-0,C,Naturaliste Plateau,,,100 Ma,Naturaliste Plateau,,100,28171.9085505158
-0,O,Hikurangi Plateau,,,120 Ma,Hikurangi,,120,279865.7093330187
-0,O,Mid-Pacific Mountains,,,130-80 Ma,Mid-Pacific Mtns,,130,592296.8812722436
 0,C,Gascoyne Margin,,,140 Ma,Gascoyne Margin,,140,14403.8505668801
 0,C,Argo Basin Margin,,,160 Ma,Argo Basin Margin,,160,124463.0259412736
 0,C,Trap,,,140-130 Ma,Trap,,140,29698.4592192819
@@ -122,24 +53,21 @@ ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,area_
 0,C-O,Ramparts Group,,,ca 210 Ma,Ramparts Group,,210,148774.8222076989
 0,C,Himalaya Neotethys,,,Early Perm (Artinskian-Kungurian),Abor,,280,18641.3371416149
 0,C,Himalaya Neotethys,,,Early Perm (Artinskian-Kungurian),Woniusi,,280,30030.8482785615
-0,C,Magellan Rise,,,ca. 150 Ma,Magellan Rise,,150,32377.3507375075
 0,C,Ferrar,,,183-179 Ma,Ferrar-1,,183,91069.4120940259
 0,C,Ferrar,,,183-179 Ma,Ferrar-2,,183,62435.1359267552
 0,C,Ferrar,,,183-179 Ma,Ferrar-3,,183,25360.6044455693
-0,O,Sorachi,,,Late Jurassic (Tithonian),Sorachi,,122,134258.9077344192
 0,C,HALIP (Franz Josef Land - Svalbard),,,130-90 Ma,Svalbard,,130,99175.4965710149
-0,C,Mackenzie,,Laurentia,1272-1265 Ma,Mackenzie,,1267,2882446.0752107119
-0,C,Abitibi,,Laurentia,1140 Ma,Abitibi,,1141,311555.4849637944
+0,C,Mackenzie,,Laurentia,1272-1265 Ma,Mackenzie,,1272,2882446.0752107119
+0,C,Abitibi,,Laurentia,1140 Ma,Abitibi,,1140,311555.4849637944
 0,C,Harp,,North Atlantic craton (Nain portion),1270 Ma,Harp,,1270,64892.0584029968
 0,C,Michael - Shabagamo,,,Ca. 1430 Ma,Michael-Shabagamo,,1450,67645.7163934702
 0,C,Sudbury [dykes],,Laurentia,1235 - 1238 Ma,Sudbury [dykes],,1235,180118.1540074978
-0,C,Keweenawan,,Laurentia,1108 & 1096 Ma,Keweenawan,,1109,466736.3584650726
+0,C,Keweenawan,,Laurentia,1108 & 1096 Ma,Keweenawan,,1108,466736.3584650726
 0,C,Southwest USA Diabase Province,,Laurentia,1100-1070 Ma,Southwest USA Diabase Province,,1090,1085691.9145274640
 0,C,Moyie,,Laurentia,1460 Ma,Moyie,,1460,111071.1810629271
 0,C,Lubero,,,1400-1200 Ma,Lubero,,1385,284518.9843094879
 0,C,Camucuo - Caimbambo,,,? 1300-1100 Ma,Camucuo - Caimbambo,,1110,131394.0063950413
-0,C,Timpton  (southern part),,Siberian craton,1750 Ma (Ar-Ar),Timptono - Algamaisky,,1750,402813.3355420250
-0,C,Warakurna,,Australian craton,1076 Ma,Warakurna,,1070,1569953.5409286025
+0,C,Warakurna,,Australian craton,1076 Ma,Warakurna,,1075,1569953.5409286025
 0,C,Bahia - Araquai,,Sao Francisco craton,925 Ma,Bahia,,925,152880.5224193592
 0,C,Protogine Zone,,Baltica,1215-1220 Ma,Protogine Zone,,1215,16354.6268330881
 0,C,Ibitiara - Ibiajara,,,1200-900 Ma,Ibitiara - Ibiajara,,1200,23264.8560645292
@@ -148,200 +76,166 @@ ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,area_
 0,C,Serro do Cachimbo,,,ca. 1300 Ma,Serro do Cachimbo,,1300,78603.6004062985
 0,C,Vestfold Hills-4,,,1380 Ma,Vestfold Hills-4,,1380,9680.0710975292
 0,C,Chieress,,Siberian craton,1384 Ma,Chieress,,1385,14925.6492235396
-0,C,Kuonamka,,Siberian craton,1500 Ma,Kuonamka,,1501,66381.8902965545
 0,C,Kengede,,Siberian craton,1600-1200 Ma,Kengede,,1500,10509.2362309468
-0,C,Round Hummock,,Western Australian craton,Ca. 1600 Ma,Round Hummock,,2000,53722.4461989271
 0,C,Wakeham - Tshenukutish - Algonquin (WTA),,,1170 Ma,Tshenukutish,,1170,5051.0734741548
 0,C,Wakeham - Tshenukutish - Algonquin (WTA),,,1170 Ma,Algonquin metagabbros,,1170,11076.7232720972
 0,C,Tuna-TrondGota-LakeLadoga,,Baltica,"1460m 1457, 1450  Ma",Trond Gota-Lake Ladoga,"interpreted as orogenic magmatism by Brander and Soderlund (2009) Int. J. Earth Sci. v. 98, p. 499-516",1460,677810.7640178624
 0,C,Hart River - Salmon River Arch,,Laurentia,1380 Ma,Salmon River Arch,,1380,10775.3532816240
 0,C,Sette-Daban,,Siberian craton,"1005 Ma, 974 Ma",Sette Daban,,1005,51349.2868967740
-0,C,Breven-Hallefors,,Baltica,1600 Ma,Breven-Hallefors,,1599,58243.2343070788
-0,C,Varmland  - Aland-Aboland,,Baltica,1580-1540 Ma,Aland-Aboland,,1580,20710.2761926315
 0,C,Hart River - Salmon River Arch,,Laurentia,1380 Ma,Hart River,,1380,6331.1017804468
 0,C,Gardar-late,,,1163 Ma,Late Gardar,,1163,60431.9245009239
 0,C,Gardar-middle,,,1280 Ma,Middle Gardar,,1280,18967.6641464664
 0,C,Derim-Derim (Roper),,North Australian craton,1320 Ma,Derim-Derim (Roper),,1320,180330.6143862030
-0,C,Southeast Baltica-1,,Baltica,Ca. 1600 Ma,Southeast Baltica-1,,1600,22064.8889475581
 0,C,Columbia River,,,mainly 16.5-14.5 Ma,Columbia River,,16,676420.9638731702
 0,C,Deccan,,,66 Ma,Deccan,,66,698133.6240007372
-0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,1990512.7889299688
 0,C,NAIP (North Atlantic Volcanic Province)-Europe,,,mainly 62-58 Ma,British Tertiary,,62,252594.5404084782
-0,C,NAIP (North Atlantic Volcanic Province)-Greenland,,,62-58 Ma,Greenland-NAIP,,62,842722.9071424076
 0,C,Vesftold Hills-5,,,1240 Ma,Vestfold Hills-5,,1240,11198.9154752496
 0,C,Mashak,,Baltica,1385 Ma,Mashak,,1385,88057.7316966031
 0,C,Mealy - NW River,,Laurentia,1250 Ma,Mealy - NW River,,1250,10288.9656214694
 0,C,Seal Lake,,Laurentia,ca. 1235,Seal Lake,,1235,9719.7088077586
 0,C,Niquelandia-1 - Juscelandia,,,1300-1250 Ma,Niquelandia-1 - Juscelandia,,1250,24879.1314855748
 0,C,Niquelandia-2,,,790 Ma,Niquelandia-2 (Lower Layered Series),,790,29808.3095910867
-0,C,Harts Range,,,1770 Ma,Harts Range,,1770,80689.3231326292
-0,C,Morel - Mara - Ghost Lake,,Slave,1880 Ma,Morel - Mara - Ghost Lake,,1880,172512.6358356008
 0,C,Brevik,,,1500 Ma,Brevik,,1500,1672.4933961969
-0,C,Indin,,Slave,2110 Ma,Indin,,2125,39759.4921197717
 0,C-S,Malani,,Indian craton,755 Ma,Malani,,755,22292.1630572438
 0,C,Thiselwaite,,Laurentia,1170 Ma,Thiselthwaite,,1170,7751.3502864074
-0,C,North China A-type 2500,,,ca. 2500,North China A-type 2500,,2500,1438725.7824827258
-0,C,Seychelles-755 Ma,,,750 Ma,Seychelles-755M,,755,8943.9178296149
 0,C,Biryusa-1 - Sharyzhalgai,,Siberia,740 Ma,Biryusa-1,,725,39137.2431311135
 0,C,Biryusa-2,,Siberia,612 Ma,Biryusa-2,,612,38579.0808940520
 0,C,Biryusa-3,,Siberia,510 Ma,Biryusa-3,,512,43777.8809475620
 0,C,Tianshan,,,"320 Ma (U-Pb), 345-306 Ma (Ar-Ar)",Tianshan,,320,586837.5601409799
 0,S,Whitsunday Volcanics,,,120-105,Whitsunday Volcanics,,120,40590.6753785495
-0,C,Hitalba Suite (Gawler Range),,Southern Australian craton,1590 Ma,Hitalba Suite (Gawler Range),,1590,130951.0209764757
-0,C,Mt Isa (Lunch Creek),,,1750 Ma,Mt Isa,,1750,36602.3019822293
 0,C-S,Guibei,,South China block,825-800 Ma,Guibei,,825,1341663.4137694277
 0,C-S,Shaba,,South China block,755 Ma,Shaba,,755,303743.3837832182
-0,C,Blue Draw,,Wyoming craton,2480 Ma,Blue Draw,,2480,6730.7883242686
-0,C,Dalma,,Indian craton,ca 1600 Ma,Dalma,,1600,1788.1758792122
 0,C,Katanga,,,??800 Ma,Katanga,,0,29317.6283735947
-0,C,Narracoota,,,2000 Ma,Narracoota,,2000,4679.8060187490
-0,C,Oenpelli,,North Australian craton,1700 Ma,Oenpelli,,1720,11966.1233719958
 0,C,Ouarzazate,,West African craton,580-560 Ma,Ouarzazate,,570,61377.0439801618
-0,C,Soutpansberg - Waterberg - Olifantshoek,,Kalahari craton,ca. 1928 Ma,Soutpansberg - Waterberg - Olifantshoek,,1930,272147.1987572656
-0,C,Snowy Pass,,Wyoming craton,2101-2083 Ma,Snowy Pass,,2100,7330.4145005939
-0,C,Tata (Ierhourtane),,,2040 Ma,Tata (Ierhourtane),,2040,135.1044803255
 0,C,Xianfeng,,,810 Ma,Xianfeng,,810,235.9645433843
 0,C,Suxiong,,,ca. 807 Ma,Suxiong,,810,5308.7423761488
-0,C,Wind River,,Wyoming craton,2170 Ma,Wind River,,2170,35.6571444974
 0,C,Aksu,,Tarim craton,807 Ma,Aksu,,810,285.6327165052
 0,C,Harohalli,,,Ca. 814 Ma,Harohalli,,815,1509.8502750263
 0,C,Siberian Trap LIP,,,251-249 Ma,Siberian Trap LIP,,251,3454382.6305273217
-0,C,Bangalore,,Dharwar craton,2365 Ma,Bangalore,,2365,265771.3053942789
-0,C,Mahbubngour - Dandeli,"Dandeli, Northern Dharwar (French & Heaman 2010 Prec. Res; doi:10.1016/j.precamres.2010.05.003)",Dharwar craton,2180 Ma,Mahbubngour2180Ma,,2180,290011.3640790201
 0,C,SouthernAfrica999-912Ma,,,999-912 Ma,SouthernAfrica999-912Ma,,0,1060864.2745457094
 0,C,SouthernAfrica830-750Ma,,,830-750 Ma,SouthernAfrica830-750Ma,,0,3415397.3565723058
 0,C,Kunene-Kibaran,,Greater Congo craton,1380-1360 Ma,Kunene-Kibaran,,1385,2124829.4221775704
 0,C,Lengjiaxi Group,,,ca. 1270 Ma?,Nanqiao of Liuyang,,1270,3302.9599563509
 0,C,Lengjiaxi Group,,,ca. 1270 Ma?,Shizuitang of Yiyang,,1270,6606.4073065065
-0,C,Broken Hill 1700Ma,,,1690-1675 Ma,Broken Hill 1700Ma,,1690,4058.3889753193
-0,C,Tobacco Root Mtn 2060Ma,,,2060,Tobacco Root Mtn 2060Ma,,2060,51.0973597707
 0,C,Nova Floresta,,,1200 Ma ?,Nova Floresta 1.2 Ga,,1200,7116.5348542658
 0,C,Betara Gabbros,,,1445,Betara Gabbros,,1445,87822.1031000915
-0,C,Parana-Etendeka,,,130,volcanic passive margin (off South America),,134,122179.5811083954
-0,C,Parana-Etendeka,,,130,"volcanic margin, offshore, Equatorial West Africa",,134,73913.4554355525
 0,C,Irkutsk,,Siberian craton,720,dykes,,720,303495.1977047653
-0,C,Deccan,,India,66,Chagos-Laccadive (3000M & gravity contour),,66,861506.3349279012
-0,C,NW Australian Margin,,,160-140 Ma,NW Australian Margin,,160,2135581.2666677511
-0,C-O,HALIP (Alpha Ridge),,,130-80,Alpha Ridge (2500 m),,125,143070.9871509579
-0,O,HALIP (Alpha Ridge),,,130-80,Alpha Ridge continuation (2500 m),,125,28292.4975709805
-0,C-O,HALIP (Mendeleev Ridge),,,90,Mendeleev Ridge  2500 m (eastern half),,125,115748.2272271548
-0,C-O,HALIP (Mendeleev Ridge),,,90,Mendeleev Ridge  2500 m (western half),,125,79617.5666336681
-0,C,Essakane,,West African craton,1520,Essakane dyke swarm,,1525,508813.1291321190
-0,C,Korsimoro,,West African craton,1575,Korsimoro dyke swarm,,1575,162665.0165572680
 0,C,Manso,,West African craton,870,Manso dyke swarm,,870,118749.6999885885
-0,C,Deccan (Seychelles),,,60,Seychelles,,66,309090.1011634970
-0,C,Ndembera LIP,,Tanzanian craton,1773,Ndembera dyke swarm,,1773,93504.2189369062
 0,C,Tarim,,,280,Tarim,,280,198984.3002889378
-0,C,Kivalliq-Hadley Bay - Cleaver,,Laurentia,1750,McRae dyke swarm,,1750,24147.9681809078
-0,C,Kivalliq-Hadley Bay - Cleaver,,Laurentia,1750,Wellington Inlier dyke swarm,,1750,26561.1568798520
-0,C,Essakane-Kayser,,West African craton,1520,Kayser dyke swarm,,1520,15137.3088880998
-0,C,Timpton (northern part),,Siberian craton,1755,Timpton-2,,1755,24288.2350047777
-0,C,Ongeluk,,Kaapvaal craton,2426,Ongeluk,,2426,203229.1272351272
-0,C,Papilia (Newer Dolerites),,Singhbhum craton,1760,Papilia (Newer Dolerites),,1760,8878.9795364359
 0,C,Lakhna- (Bandlimal),,Bastar craton,1440,Lakhna- (Bandlimal),,1440,39257.2324814842
 0,C,Dashigou (Sariwon)- west of Yan Lu fault,,North China craton,900,Dashigou (Sariwon),,920,444418.1459573467
-0,C,Dashigou (Sariwon) - east of Yan Lu fault,,North China craton,900,Dashigou (Sariwon),,925,55849.3018233133
-0,C,Bastanar-Hampi,,Indian craton,1890,Bastanar-Hampi,,1890,178946.1400533356
-0,C,Devarabanda,,Dharwar craton,2080,Devarabanda,,2080,71321.7505855311
-0,C,Khajuraho (Jhansi),,Bundelkhand craton,1970,Khajuraho (Jhansi),,1970,23278.0340402078
-0,C,Kunigal and Anantpour event(s),,Dharwar craton,2215,Kunigal and Anantpour event (s),,2215,246274.7933440867
-0,C,Kaptipada LIP,,Singhbhum craton,2250,Kaptipada LIP,,2250,17621.8117192057
-0,C,Dantewara event (c. 2400 Ma),,Bastar craton,2400,Dantewara event (c. 2400 Ma),,2400,64260.2260027991
-0,C,Kashargari LIP (2700 Ma),,Singhbhum craton,2700,Kashargari LIP (c. 2700 Ma),,2700,18771.5548711150
-0,C,Keshkal LIP (c. 2700 Ma),,Bastar craton,2700,Keshkal LIP (c. 2700 Ma),,2700,102839.9437072966
+0,C,Dashigou (Sariwon) - east of Yan Lu fault,,North China craton,900,Dashigou (Sariwon),,920,55849.3018233133
 0,C,Ghatgaon LIP,,Singhbhum craton,0,Ghatgaon LIP,,0,11732.3841330178
 0,C,Keonjhar Younger and Older,,Singhbhum craton,0,Keonjhar Younger and Older,,0,10887.2619666327
-0,C,Ptarmigan-Irsuaq-Pointe Raudot,,Superior craton,2500,Ptarmigan-Irsuaq-Pointe Raudot,,2510,105018.8021033373
-0,C,Stillwater- Rendevous,,Wyoming craton,2700,Stillwater- Rendevous,,2700,73054.1848219122
-0,C,Riviere du Gue,,Superior craton,2150,Riviere du Gue,,2150,65861.4391989416
-0,C,Ghost - Mara River- Morel,,Slave craton,1870,,,1880,209197.5663673038
-0,C,Bear Mountain,,Wyoming craton,2115,,,2115,19265.9790741212
-0,C,Pechenga-Onega,,Karelian craton,1970,,,1970,494879.8799213704
 0,C,EQUAMP (Equatorial Atlantic Magmatic Province),,South America,130,,,134,660290.9507699276
-0,C,Yanomami,,Amazonia,1980,,,1980,266840.5523079035
-0,S,Uatuma silicic LIP,,Amazonia,1880,Uatuma,,1880,1023606.2086403219
-0,C,Hengling event,,North China craton,2150,Hengling,Just the sill portion. Doubtless a much larger event,2150,2410.6408933524
-0,C,CSDG- includes swarm of Goldberg 2010 J. Geodynam.,,Baltica,1260,Central Scandinavian Dolerite Group,,1255,263737.1621165290
+0,C,CSDG- includes swarm of Goldberg 2010 J. Geodynam.,,Baltica,1260,Central Scandinavian Dolerite Group,,1260,263737.1621165290
 0,C,Galiwinku - Derim Derim,,North Australian craton,1320,Galiwinku- Derim Derim,,1320,194579.9426742165
 0,C,Marnda Moorn,,Yilgarn craton,1210,Marnda Moorn,,1210,710591.5842377340
 0,C,Gairdner,,Australian craton,825,Gairdner,,825,1327057.2770544121
-0,C & S,Gawler Range,,Australian craton,1590,Gawler Range,,1590,570202.1653338101
-0,C,Welli Wolli,,Pilbara craton,2450,Welli Wolli,,2450,44227.7705618384
 0,O accreted,Wrangellia,,Accreted terrane,230,Wrangellia,,230,624332.3896682664
 0,O accreted,Crescent-Siletz-Yakutat,,Accreted terrane,50,Crescent-Siletz-Yakutat,,50,42143.9409990568
-0,C,Frobisher Suite M-UM event,,Meta-Incognito,1900,Frobisher Suite M-UM event,,1900,74603.2375355554
 0,C,CIMP 590-560 Ma pulse,,Laurentia,580,CIMP 590-560 Ma pulse,,580,358461.0387421406
 0,C,CIMP - 615 Ma pulse,,Laurentia,615,CIMP - 615 Ma pulse,,615,97397.0754456734
-0,C,Ring of Fire and Bird River sill events,,Superior craton,2740-2730 Ma,,combining the Ring of Fire and the Bird River sill (both c. 2740 Ma) along the southern part of the North Caribou terrane (check this),2740,40437.3916020903
 0,C,Cundeelee (1664-1260 Ma),,YIlgarn craton,1664-1260 Ma0,,,0,54110.8133380904
-0,C,Pelly Bay,,Laurentia,1700,,,1700,15675.0821465830
-0,C,Ukrainian AMCG- Prutivka - Novogol,,Sarmatia,1790,,,1790,361894.8897180800
-0,C,Voronezh,,Sarmatia,2070,,,2070,204151.9153439776
 0,C,Yanliao,,North China craton,1320,,,1320,85068.3670468976
-0,C,Xiwangshan  (1970 Ma),,North China craton,1970 Ma,,,1970,12131.3252277871
-0,C,Laiwu event (1670 Ma),,North China craton,1670 Ma,,,1670,7882.7743295534
 0,C,Licheng (1230 Ma) & Yishui (1210 Ma),,North China craton,1230-1210 Ma,,,1230,49629.1025431546
-0,C,Xuwujia (1960-1930 Ma),,North China craton,1960-1930 Ma,,,1960,28885.1102816568
-0,C,Taishan (1630-1620 Ma),,North China craton,1630-1620 Ma,,,1630,52795.7436588926
-0,C,Miyun (1730 Ma) & Damiao-Shachang (1730-1680 Ma),,North China craton,1730-1680 Ma,,,1730,90429.6910774007
 0,C,Qianlishan (810 Ma),,North China craton,810 Ma,,,810,3322.7075963830
-0,C,Haicheng (2120 Ma),,North China craton,2120 Ma,,,2120,5156.9525571735
-0,C,Zanhuang (2090 Ma),,North China craton,2090 Ma,,,2090,2173.9050838724
-0,C,Yixingzhai (2060 Ma),,North China craton,2060 Ma,,,2060,3303.9758238857
-0,C,Black Range - Mount Roe,,Pilbara craton,2780 Ma,,,2780,135139.0258586581
-0,C,Hart,,Australia,1790 Ma,,,1790,2824356.8665431151
 0,C,Boucaut,,Australia,780 Ma,,,780,5091.6230981661
 0,C,Bangemall,,Australia,1465 Ma,,,1465,42341.8507719561
-0,C,Kathleen Valley (-Kylena),,Pilbara craton,2740 Ma,,,2740,146005.2999297853
-0,C,Andrew Young,,Australian craton,1635 Ma,An,,1635,844248.2376251876
-0,C,Wiluna - Sally Mally,,Australian craton,1845 Ma,,,1845,43606.0691224694
-0,C,Mount Hay,,Australian craton,1810 Ma,,,1810,686860.7107306946
-0,C,Maddina,,Pilbara craton,2715 Ma,,,2715,146005.2999297861
-0,C,Radley,Munni Munni,Pilbara craton,2920 Ma,,,2920,11515.6407067549
 0,C,Seal Lake - Harp - Mealy,,Laurentia,1270-1250 Ma,,,1270,133484.1556863429
 0,C,Gardar,,Laurentia (Greenland),1280-1260 Ma,,,1280,26992.1965078711
-0,C,Ntshuku - Pallatin,,Core zone craton,2332 Ma,,,2332,7639.9173987809
-0,C,Ramah Group,,North Atlantic craton (Nain portion),1880 Ma,Labrador Coast,,1880,6039.0248531358
 0,"S, C",South China events (825-750 Ma),,South China,825-750 Ma,,,825,2109137.4383376678
 0,S,Eastern Granite- Rhyolite Province,,Laurentia,1480-1460 Ma,,,1480,708439.0370186178
 0,S,Southern Granite-Rhyolite Province,,Laurentia,1390 & 1320 Ma,,,1390,594353.3886636796
-0,C,Pebbair,,Indian craton,1788 Ma,,,1788,8803.5664478368
-0,C,Ippaguda,,Dharwar craton,2250 Ma,,,2250,79545.3607058917
 0,C,Mahoba,,Bundelkhand craton,1110 Ma,,,1110,6498.2936760981
-0,C,Keivitsa,,Karelia-Kola craton,2060 Ma,,,2060,13642.3303042635
-0,C,Koli (Karjalitic sills),,Karelia-Kola craton,2215 Ma,,,2215,96701.0725272083
-0,C,Tailvalkovski-Kuito,,Karelia-Kola craton,2330 Ma,,,2330,15492.8399665923
-0,C,Rantavaara,,Karelia-Kola craton,2150 Ma,,,2150,35144.4960021949
-0,C,Tommajarvi-Pirtguba,,Karelian craton,2115 Ma,,,2115,110968.5594814562
-0,S,Iriri,,Amazonia,1880,,,1880,594306.5277698168
 0,C,Curaca- Chapada Diamantina,,Sao Francisco craton,1500 Ma,,,1500,182519.2949669372
-0,C,Uaua,,Sao Francisco craton,2725 & 2625 Ma,,,2725,2817.1636669907
-0,C,Ventersdorp events,,Kaapvaal craton,2780-2680 Ma,,,2780,388067.9932133379
 0,C,Gannakouriep,,Kalahari craton,799 Ma,,,799,19843.1539904079
 0,C,Huila (GN) - Epembe,,Congo craton,1110 Ma,,,1110,35255.3340104292
 0,C,Pilanesberg,,Kalahari craton,1380-1350 Ma,,,1380,78929.4892311170
 0,C,Bas Draa,,West African craton (Anti-Atlas inliers),1415-1380 Ma,,,1415,1071.5292354254
 0,C,Humpata,,Congo,1500 Ma,,,1500,3876.3926523051
-0,C,Zenaga,,West African craton (Anti-Atlas inliers),1660 Ma,,,1660,4130.5397757766
-0,C,Tagragra of Akka,,West African craton (Anti-Atlas inliers),1755 Ma,,,1755,33896.2999826983
-0,C,Black Hills,,Kalahari craton,1880-1840 Ma,,,1880,45234.4515072569
-0,C,Ahmeyim (includes Grerat Dyke of Mauritania),,Reguibat,2733 Ma,,,2733,96619.9301485146
-0,C,Hlagothi,,Kaapvaal craton,2860 Ma,,,2860,30072.5472510475
-0,S,Sierra Madre Occidental (SLIP),,North America,38-20 Ma,,,38,2076005.3900740363
 0,C,Kikitat,,North America (Alaska),715 Ma,,,715,2350.7627418501
-0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,4749779.2295215297
-0,"C, O",HALIP (European side),,,120-90 Ma,,,120,2350445.1972187059
 0,C,Midsommerso - Zig Zag Dal,,North America (Greenland),1385 Ma,,,1385,98780.5310977596
-0,"C, O",Minto (Eskimo-Povungnituk),,Superior craton,1998 Ma,,,1998,438540.1918411436
-0,C,Cauchon,,Superior craton,2090 & 2070 Ma,,,2090,20383.6454036761
-0,C,Brichta,,Slave craton,2230 Ma ? (equiv to  Malley?),,,2230,20189.9662218672
-0,C,Aiskill,,Baltica,1750 Ma,,,1750,5565.6449315850
-0,C,Avanavero (south),,Amazonia,1790 Ma,,,1790,606371.3719475138
 0,C,South Qiangtang,,South Qiangtang terrane,280 Ma,,,280,66486.3776204153
 0,C,Panjal,,Aravelli craton,280 Ma,,,280,44571.6764471598
-0,C,Kalaro-Nimnyrsky-Malozadoiskii,,Siberian craton,1870 Ma,,,1870,576878.3430366878
-0,C,Lunch Creek (south),,South Australian craton,1750 Ma,,,1750,101635.0531930416
-0,C,Lunch Creek (north),,North Australian craton,1750 Ma,,,1750,30803.0639740762
-0,C,Sally Mally (south),,South Australian craton,1850 Ma,,,1850,127132.7380326471
-0,C,Sally Mally (north),,North Australian craton,1850 Ma,,,1850,398550.2344475889
-0,C,Timpton,,Siberian craton,1750 Ma,entire event,,1750,948206.5955140820
+0,C,Parana,,,mainly 134-129 Ma,Parana,,134,1507093.8391483373
+0,C,Parana,,,mainly 134-129 Ma,Parana,,134,527154.0578731572
+0,C,Parana,,,mainly 134-129 Ma,Parana,,134,85318.7486749803
+0,C,Parana-Etendeka,,,130,volcanic passive margin (off South America),,134,16412.5373895136
+0,C,Parana-Etendeka,,,130,volcanic passive margin (off South America),,134,40670.1328452043
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,25373.8459723713
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,8821.3349674810
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,5988.0394509861
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,256.4321236418
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,247807.3345807547
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,4960.4988314712
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,46825.4427994840
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,57073.7218929679
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,133860.3954674241
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,92076.2494316810
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,6160.4820444774
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,56925.1550617523
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,10750.3192027229
+0,S,Sierra Madre Occidental (SLIP),,North America,38-20 Ma,,,38,84527.7868853919
+0,S,Sierra Madre Occidental (SLIP),,North America,38-20 Ma,,,38,15538.8016996003
+0,S,Sierra Madre Occidental (SLIP),,North America,38-20 Ma,,,38,302978.2791720281
+0,S,Sierra Madre Occidental (SLIP),,North America,38-20 Ma,,,38,230287.8305016387
+0,S,Sierra Madre Occidental (SLIP),,North America,38-20 Ma,,,38,113195.9019462934
+0,S,Sierra Madre Occidental (SLIP),,North America,38-20 Ma,,,38,329253.8947709441
+0,S,Sierra Madre Occidental (SLIP),,North America,38-20 Ma,,,38,14538.0000313222
+0,S,Sierra Madre Occidental (SLIP),,North America,38-20 Ma,,,38,141399.3785840770
+0,S,Sierra Madre Occidental (SLIP),,North America,38-20 Ma,,,38,738315.1319903892
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,154983.2925658059
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,174966.9347227966
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,115.1112087453
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,25759.4399695635
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,276500.5902253901
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,76497.4725263766
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,66016.7923624388
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,101332.3506257396
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,38731.1479535875
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,40842.8281006997
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,36688.8399698298
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,4082.8864436606
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,412968.8083642624
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,32551.3000853276
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,11258.2934376366
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,91298.6916332222
+0,C,Franklin,,Laurentia,723 Ma,Franklin,,725,1413.6331237072
+0,C,Franklin,,Laurentia,723 Ma,Franklin,,725,33105.5332417772
+0,C,Franklin,,Laurentia,723 Ma,Franklin,,725,50492.1027343614
+0,C,Franklin,,Laurentia,723 Ma,Franklin,,725,3673.3734406398
+0,C,Franklin,,Laurentia,723 Ma,Franklin,,725,2420005.3795031253
+0,C,NAIP (North Atlantic Volcanic Province)-Greenland,,,62-58 Ma,Greenland-NAIP,,62,54996.3009640271
+0,C,NAIP (North Atlantic Volcanic Province)-Greenland,,,62-58 Ma,Greenland-NAIP,,62,747828.2592429686
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,50315.3036542465
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,79826.6120434590
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,48651.2857675040
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,73216.6768181617
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,318003.8166996941
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,2322.8229629518
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,30694.4900278626
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,83564.0276613637
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,195912.3816278816
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,41379.3425376107
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,59469.6901861788
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,926444.5956406520
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,4664.8989728147
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,21477.1385250244
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,117350.9623381305
+0,C,Baish (Arabian-Nubian),,,Ca. 850 Ma,Baish (Arabian-Nubian),,850,14352.6082826417
+0,C,Baish (Arabian-Nubian),,,Ca. 850 Ma,Baish (Arabian-Nubian),,850,20599.5162428473
+0,C,Baish (Arabian-Nubian),,,Ca. 850 Ma,Baish (Arabian-Nubian),,850,642988.3869286530
+0,C,Baish (Arabian-Nubian),,,Ca. 850 Ma,Baish (Arabian-Nubian),,850,645901.6462273798
+0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,41032.1618153385
+0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,310703.7525234791
+0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,1078059.5250528648
+0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,577248.4885293534
+0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,5708.9781885273
+0,C,Deccan,,India,66,Chagos-Laccadive (3000M & gravity contour),,66,376883.0355436123
+0,C,Deccan,,India,66,Chagos-Laccadive (3000M & gravity contour),,66,14463.2231445895
+0,C,NW Australian Margin,,,160-140 Ma,NW Australian Margin,,160,619071.3436989126
+0,C,Parana-Etendeka,,,130,"volcanic margin, offshore, Equatorial West Africa",,134,21679.4113089378
+0,C,Etendeka,,,138-122 Ma,Etendeka,,134,873069.2220831800
+0,O,Sorachi,,,Late Jurassic (Tithonian),Sorachi,,122,120901.4745972359
+0,O,Sorachi,,,Late Jurassic (Tithonian),Sorachi,,122,6957.1847341055
