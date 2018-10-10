@@ -26,6 +26,7 @@ ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,2018_
 0,C,Columbia River,,,mainly 16.5-14.5 Ma,Columbia River,,16,Columbia River,16,101,676420.9638731702
 0,C,Deccan,,,66 Ma,Deccan,,66,Deccan,66,501,698130.3072758717
 0,C,NAIP (North Atlantic Volcanic Province)-Europe,,,mainly 62-58 Ma,British Tertiary,,62,NAIP,62,303,252594.5404084782
+0,C,Ouarzazate,,West African craton,580-560 Ma,Ouarzazate,,570,Ouarzazate,570,714,61377.0439801618
 0,C,Siberian Trap LIP,,,251-249 Ma,Siberian Trap LIP,,251,Siberia,252,401,3454382.6305273217
 0,C,Tarim,,,280,Tarim,,280,Tarim,290,480,198984.3002889378
 0,C,EQUAMP (Equatorial Atlantic Magmatic Province),,South America,130,,,134,EQUAMP,131,201,660290.9507699276
@@ -43,18 +44,26 @@ ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,2018_
 0,C,Parana-Etendeka,,,130,"volcanic margin, offshore, Equatorial West Africa",,134,Parana-Etendeka,135,701,21679.4113089378
 0,C,Etendeka,,,138-122 Ma,Etendeka,,134,Parana-Etendeka,135,701,873069.2220831800
 ,,Bunbury,,,,,,,Bunbury,132,801,25916.2209513945
+,,Chon Aike,,,,,,,Chon Aike,183,803,11037.5800095632
+,,Chon Aike,,,,,,,Chon Aike,183,803,13547.9590466933
+,,Chon Aike,,,,,,,Chon Aike,183,803,6699.8469195857
 ,,Comei,,,,,,,Comei,132,606,105445.2503466975
+,,Kennedy-Conners-Auburn,,,,,,,Kennedy-Conners-Auburn,305,848,757295.9176225854
 ,,Suordakh,,,,,,450,Suordakh,450,420,18209.6998259633
+0,S,Whitsunday,,Australia,120-105,,,120,Whitsunday,120,848,465084.4518027372
 0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,Afar,30,715,1394472.2557648299
 0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,Afar,30,503,618280.6503447228
 0,C,Parana-Etendeka,,,130,volcanic passive margin (off South America),,134,Parana-Etendeka,135,202,16035.8316280738
 0,C,Parana-Etendeka,,,130,volcanic passive margin (off South America),,134,Parana-Etendeka,135,290,41046.8386066438
+0,S,Sierra Madre Occidental (SLIP),,North America,38-20 Ma,,,38,Sierra Madre Occidental,34,101,1970035.0055820197
 0,C,NAIP (North Atlantic Volcanic Province)-Greenland,,,62-58 Ma,Greenland-NAIP,,62,NAIP,62,102,802843.1057100138
 0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,120,918679.3070330024
 0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,121,25498.2624441255
 0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,102,187255.5587051118
 0,C,Deccan,,India,66,Chagos-Laccadive (3000M & gravity contour),,66,Seychelles,66,501,456198.2893804010
 0,"C, O",HALIP (European side),,,120-90 Ma,,,120,HALIP,95,311,2053095.1384217057
+,,Chon Aike,,,,,,,Chon Aike,183,290,236934.1732589728
+,,Chon Aike,,,,,,,Chon Aike,183,291,475677.7493185626
 0,C,Parana,,,mainly 134-129 Ma,Parana,,134,Parana-Etendeka,135,201,1507093.8391483375
 0,C,Parana,,,mainly 134-129 Ma,Parana,,134,Parana-Etendeka,135,202,527154.0578731546
 0,C,Parana,,,mainly 134-129 Ma,Parana,,134,Parana-Etendeka,135,290,85318.7486749816
