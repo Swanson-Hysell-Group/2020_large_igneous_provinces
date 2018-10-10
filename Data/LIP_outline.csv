@@ -69,7 +69,25 @@ ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,2018_
 0,C,Parana,,,mainly 134-129 Ma,Parana,,134,Parana-Etendeka,135,290,85318.7486749816
 0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,248,579.5218221036
 0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,248,5580.9602223738
-0,C,Franklin,,Laurentia,723 Ma,Franklin,,725,Franklin,720,,2549645.7576702856
-0,C,Franklin,,Laurentia,723 Ma,Thule,,725,Franklin,720,,67410.7451565828
+0,C,Franklin,,Laurentia,723 Ma,Franklin,,725,Franklin,720,101,2549645.7576702856
+0,C,Franklin,,Laurentia,723 Ma,Thule,,725,Franklin,720,102,67410.7451565828
 0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,415,362060.4128365535
 0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,415,50908.3955277090
+0,C,Gunbarrel (Western North America),,Laurentia,780 Ma,Gunbarrel-N,,780,Gunbarrel,780,101,630396.2270598874
+0,C,Gunbarrel (Western North America),,Laurentia,780 Ma,Gunbarrel-S,,780,Gunbarrel,780,101,202976.7539483596
+0,C,Mundine Well,,Western Australian craton,755 Ma,Mundine Well,,755,Mundine Well,755,801,378580.1159932206
+0,C,Irkutsk,,Siberian craton,720,dykes,,720,Irkutsk,724,401,303495.1977047653
+0,C,Keweenawan,,Laurentia,1108 & 1096 Ma,Keweenawan,,1108,Keweenawan,1109,101,466736.3584650726
+0,C,Southwest USA Diabase Province,,Laurentia,1100-1070 Ma,Southwest USA Diabase Province,,1090,SW Laurentia,1090,101,1085691.9145274640
+0,C,Warakurna,,Australian craton,1076 Ma,Warakurna,,1075,Warakurna,1070,801,1569953.5409286025
+0,C,Umkondo,,Kalahari craton,1112-1106 Ma,Umkondo-Africa,,1112,Umkondo,1109,701,2015349.1015743725
+0,C,Willouran-Gairdner,,South Australian craton,825 Ma,Wilouran-Gairdnar,,825,Willouran-Gairdner,827,801,627162.0689575882
+0,C,Zadinian-Mayumbian,,Greater Congo craton,924-912 Ma,Zadinian-Mayumbian,,925,Gangil-Mayumbia,920,701,341929.9416356078
+0,"S, C",South China events (825-750 Ma),,South China,825-750 Ma,,,825,SWCUC,821,602,2109137.4383376678
+0,C,Dashigou (Sariwon)- west of Yan Lu fault,,North China craton,900,Dashigou (Sariwon),,920,Dashigou,925,601,444418.1459573467
+0,C,Dashigou (Sariwon) - east of Yan Lu fault,,North China craton,900,Dashigou (Sariwon),,920,Dashigou,925,601,55849.3018233133
+0,C,Mackenzie,,Laurentia,1272-1265 Ma,Mackenzie,,1272,Mackenzie,1267,101,2882446.0752107119
+0,C,Marnda Moorn,,Yilgarn craton,1210,Marnda Moorn,,1210,Marnda Moorn,1210,801,710591.5842377340
+0,C,Abitibi,,Laurentia,1140 Ma,Abitibi,,1140,Abitibi,1141,101,311555.4849637944
+0,C,Sudbury [dykes],,Laurentia,1235 - 1238 Ma,Sudbury [dykes],,1235,Sudbury,1235,101,180118.1540074978
+0,C,CSDG- includes swarm of Goldberg 2010 J. Geodynam.,,Baltica,1260,Central Scandinavian Dolerite Group,,1260,CSDG,1255,302,263737.1621165290
