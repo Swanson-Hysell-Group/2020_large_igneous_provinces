@@ -1,0 +1,84 @@
+ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,2018_Name,2018_Age,PLATEID,area_km2
+0,C,Emeishan,,South China craton,258 Ma,Emeishan,,259,Emeishan,259,602,704071.4510831172
+0,C,Yakutsk-Vilyui,,Siberian craton,ca. 370,Yakutsk-Vilyui,,370,Vilyui,374,404,1143822.3022723389
+0,C,Kalkarindji,,Australian craton,510 Ma,Kalkarindji,,510,Kalkarindji,511,801,3541781.8950359463
+0,C,Magdalen-Maritimes,,Appalachian terranes,360-320 Ma,Appalachians,,360,Magdalen,360,101,421843.1721644479
+0,C,Kola-Dnieper [East European craton],,Baltica,365 Ma,Kola-Dnieper [East European craton],,370,Kola-Dnieper,380,302,5899074.2352424674
+0,C,Wichita Mountains,,Laurentia,ca. 530,Wichita mtns,,530,Wichita,535,101,181314.2833335028
+0,C,Tarim (possibly incorrectly located),,Tarim craton,280 Ma,Tarim Block (possibly incorrectly located),,280,Tarim,290,480,155526.6893766787
+0,C,Grenville-Rideau (Middle Central-Iapetus),,Laurentia,590 Ma,Grenville-Rideau (Middle Central-Iapetus),,590,CIMP - A,580,101,159978.4070458890
+0,C,Long Range (Early Central-Iapetus),,Laurentia,615 Ma,Long Range (Early Central-Iapetus),,615,CIMP - B,615,101,83952.7297129104
+0,C,Sept-Iles - Catoctin (Late Central-Iapetus),,Laurentia,575-.550 Ma,Sept-Iles - Catoctin (Late Central-Iapetus),,575,CIMP - A,580,101,8962.5533849789
+0,C,Baltoscandian - Egersund,,Baltica,616 Ma,Egersund,,615,CIMP - B,615,302,14497.1183029798
+0,C,Baltoscandian - Egersund,,Baltica,616 Ma,Baltoscandian,,615,CIMP - B,615,302,60366.0944743193
+0,C,Catoctin,,Laurentia,560 Ma,Catoctin,,560,CIMP - A,580,101,14143.0865112204
+0,C,CAMP-Africa,,,204-191 Ma (peak at 200 Ma),CAMP-Africa,,201,CAMP,201,714,4367025.0410956675
+0,C,CAMP-South America,,,204-191 Ma (peak at 200 Ma),CAMP-South America,,201,CAMP,201,201,5462594.4219467938
+0,C,CAMP-Eastern North America (ENA),,,204-191 Ma (peak at 200 Ma),CAMP-North America,,201,CAMP,201,101,1338606.3418901348
+0,C,CAMP-Europe,,,204-191 Ma (peak at 200 Ma),CAMP-Iberia,,201,CAMP,201,304,213840.2475073352
+0,C,CAMP-Europe,,,204-191 Ma (peak at 200 Ma),CAMP-Brittany,,201,CAMP,201,305,13948.2694422095
+0,C,Karoo,,,183-179 Ma,Karoo (Africa),,183,Karoo,183,701,3174830.9353777487
+0,C,Madagascar,,,mainly 90-84 Ma,Madagascar,,93,Madagascar,90,702,617886.1853618338
+0,C,Trap,,,140-130 Ma,Trap,,140,Trap,140,102,29698.4592192819
+0,C,Ferrar,,,183-179 Ma,Ferrar-1,,183,Ferrar,183,841,91069.4120940259
+0,C,Ferrar,,,183-179 Ma,Ferrar-2,,183,Ferrar,183,841,62435.1359267552
+0,C,Ferrar,,,183-179 Ma,Ferrar-3,,183,Ferrar,183,841,25360.6044455693
+0,C,Columbia River,,,mainly 16.5-14.5 Ma,Columbia River,,16,Columbia River,16,101,676420.9638731702
+0,C,Deccan,,,66 Ma,Deccan,,66,Deccan,66,501,698130.3072758717
+0,C,NAIP (North Atlantic Volcanic Province)-Europe,,,mainly 62-58 Ma,British Tertiary,,62,NAIP,62,303,252594.5404084782
+0,C,Siberian Trap LIP,,,251-249 Ma,Siberian Trap LIP,,251,Siberia,252,401,3454382.6305273217
+0,C,Tarim,,,280,Tarim,,280,Tarim,290,480,198984.3002889378
+0,C,EQUAMP (Equatorial Atlantic Magmatic Province),,South America,130,,,134,EQUAMP,131,201,660290.9507699276
+0,C,South Qiangtang,,South Qiangtang terrane,280 Ma,,,280,Qiangtang,283,616,66486.3776204153
+0,C,Panjal,,Aravelli craton,280 Ma,,,280,Panjal,283,563,44571.6764471598
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,204,25373.8459723713
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,240,8821.3349674810
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,249,5988.0394509861
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,239,247807.3345807547
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,237,4960.4988314712
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,244,46825.4427994840
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,243,57073.7218929679
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,245,133860.3954674241
+0,C,NW Australian Margin,,,160-140 Ma,NW Australian Margin,,160,NW Australia Margin,160,801,619071.3436989126
+0,C,Parana-Etendeka,,,130,"volcanic margin, offshore, Equatorial West Africa",,134,Parana-Etendeka,135,701,21679.4113089378
+0,C,Etendeka,,,138-122 Ma,Etendeka,,134,Parana-Etendeka,135,701,873069.2220831800
+,,Bunbury,,,,,,,Bunbury,132,801,25916.2209513945
+,,Comei,,,,,,,Comei,132,606,105445.2503466975
+,,Suordakh,,,,,,450,Suordakh,450,420,18209.6998259633
+0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,Afar,30,715,1394472.2557648299
+0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,Afar,30,503,618280.6503447228
+0,C,Parana-Etendeka,,,130,volcanic passive margin (off South America),,134,Parana-Etendeka,135,202,16035.8316280738
+0,C,Parana-Etendeka,,,130,volcanic passive margin (off South America),,134,Parana-Etendeka,135,290,41046.8386066438
+0,C,NAIP (North Atlantic Volcanic Province)-Greenland,,,62-58 Ma,Greenland-NAIP,,62,NAIP,62,102,802843.1057100138
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,120,918679.3070330024
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,121,25498.2624441255
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,102,187255.5587051118
+0,C,Deccan,,India,66,Chagos-Laccadive (3000M & gravity contour),,66,Seychelles,66,501,456198.2893804010
+0,"C, O",HALIP (European side),,,120-90 Ma,,,120,HALIP,95,311,2053095.1384217057
+0,C,Parana,,,mainly 134-129 Ma,Parana,,134,Parana-Etendeka,135,201,1507093.8391483375
+0,C,Parana,,,mainly 134-129 Ma,Parana,,134,Parana-Etendeka,135,202,527154.0578731546
+0,C,Parana,,,mainly 134-129 Ma,Parana,,134,Parana-Etendeka,135,290,85318.7486749816
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,248,579.5218221036
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,248,5580.9602223738
+0,C,Franklin,,Laurentia,723 Ma,Franklin,,725,Franklin,720,101,2549645.7576702856
+0,C,Franklin,,Laurentia,723 Ma,Thule,,725,Franklin,720,102,67410.7451565828
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,415,362060.4128365535
+0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,415,50908.3955277090
+0,C,Gunbarrel (Western North America),,Laurentia,780 Ma,Gunbarrel-N,,780,Gunbarrel,780,101,630396.2270598874
+0,C,Gunbarrel (Western North America),,Laurentia,780 Ma,Gunbarrel-S,,780,Gunbarrel,780,101,202976.7539483596
+0,C,Mundine Well,,Western Australian craton,755 Ma,Mundine Well,,755,Mundine Well,755,801,378580.1159932206
+0,C,Irkutsk,,Siberian craton,720,dykes,,720,Irkutsk,724,401,303495.1977047653
+0,C,Keweenawan,,Laurentia,1108 & 1096 Ma,Keweenawan,,1108,Keweenawan,1109,101,466736.3584650726
+0,C,Southwest USA Diabase Province,,Laurentia,1100-1070 Ma,Southwest USA Diabase Province,,1090,SW Laurentia,1090,101,1085691.9145274640
+0,C,Warakurna,,Australian craton,1076 Ma,Warakurna,,1075,Warakurna,1070,801,1569953.5409286025
+0,C,Umkondo,,Kalahari craton,1112-1106 Ma,Umkondo-Africa,,1112,Umkondo,1109,701,2015349.1015743725
+0,C,Willouran-Gairdner,,South Australian craton,825 Ma,Wilouran-Gairdnar,,825,Willouran-Gairdner,827,801,627162.0689575882
+0,C,Zadinian-Mayumbian,,Greater Congo craton,924-912 Ma,Zadinian-Mayumbian,,925,Gangil-Mayumbia,920,701,341929.9416356078
+0,"S, C",South China events (825-750 Ma),,South China,825-750 Ma,,,825,SWCUC,821,602,2109137.4383376678
+0,C,Dashigou (Sariwon)- west of Yan Lu fault,,North China craton,900,Dashigou (Sariwon),,920,Dashigou,925,601,444418.1459573467
+0,C,Dashigou (Sariwon) - east of Yan Lu fault,,North China craton,900,Dashigou (Sariwon),,920,Dashigou,925,601,55849.3018233133
+0,C,Mackenzie,,Laurentia,1272-1265 Ma,Mackenzie,,1272,Mackenzie,1267,101,2882446.0752107119
+0,C,Marnda Moorn,,Yilgarn craton,1210,Marnda Moorn,,1210,Marnda Moorn,1210,801,710591.5842377340
+0,C,Abitibi,,Laurentia,1140 Ma,Abitibi,,1140,Abitibi,1141,101,311555.4849637944
+0,C,Sudbury [dykes],,Laurentia,1235 - 1238 Ma,Sudbury [dykes],,1235,Sudbury,1235,101,180118.1540074978
+0,C,CSDG- includes swarm of Goldberg 2010 J. Geodynam.,,Baltica,1260,Central Scandinavian Dolerite Group,,1260,CSDG,1255,302,263737.1621165290
