@@ -59,18 +59,15 @@
 \begin{document}
 
 \begin{flushleft}
-{\Large \textbf{XXX}}
-\\
+{\Large \textbf{Evaluating the relationship between large igneous province area and Earth's long-term climate state}}
+
 Yuem Park\textsuperscript{1},
 Nicholas L. Swanson-Hysell\textsuperscript{1},
 Francis A. Macdonald\textsuperscript{2}
 Lorraine E. Lisiecki\textsuperscript{2}
 
-\\
 \bigskip
 \textsuperscript{1} Department of Earth and Planetary Science, University of California, Berkeley, CA, USA
-\textsuperscript{1} Department of Earth Science, University of California, Santa Barbara, CA, USA
-\\
 \textsuperscript{2} Department of Earth Science, University of California, Santa Barbara, CA, USA
 \bigskip
 
@@ -98,12 +95,19 @@ This chapter seeks to address two interconnected questions: 1) how strong is the
 
 Outlines of large igneous provinces (LIPs) through the Phanerozoic (Fig. \ref{fig:LIP_map}) were taken from the compilation of \cite{Ernst2017a}, and emplacement ages were taken from the literature (Table \ref{tab:LIPs}). The compilation of \cite{Ernst2017a} seeks to reconstruct the original areal extent of LIPs with the caveat that there can be significant uncertainty with doing so, particularly for older more deeply eroded LIPs. These polygons encapsulate all of the rocks associated with a given LIP including dikes and sills. For some LIPs, this approach may lead to an overestimate of original areal extent given that subsurface intrusions could extend over a broader area than the surface volcanics. However, such intrusions likely provide the best estimate available of original extent for ancient LIPs. The extent of presently exposed volcanics associated with the LIPs were taken from a number of resources including the PLATES compilation (Table \ref{tab:LIPs}; \citealp{Coffin2006a}) and more recent compilation efforts associated with the Large Igneous Provinces Commission. 
 
-After LIPs are emplaced they will progressively erode. In order to account for this decrease in area through with time \cite{Godderis2017a} took the approach of fitting estimates of the original surface extent and estimates of the current extent for five LIPs with an exponential decay function. They used the resulting exponential decay constants to develop a first-order model to estimate changing LIP area through time. We extend this approach to 19 basaltic LIPs for which we have estimates of the original areal extent of the province and the current areal extent of rocks associated with it.
+After LIPs are emplaced they will progressively erode. In order to account for this decrease in area through with time, \cite{Godderis2017a} took the approach of fitting estimates of the original surface extent and estimates of the current extent for five LIPs with an exponential decay function. They used the resulting exponential decay constants to develop a first-order model to estimate changing LIP area through time. We extend this approach to 19 basaltic LIPs for which we have estimates of the original areal extent of the province and the current areal extent of rocks associated with it (Fig. \ref{fig:LIP_preservation}). While there are significant uncertainties associated with the area estimates, this compilation suggests that an exponential decay function is an appropriate approximate model for the progressive reduction in LIP area. The best-fit exponential function results in a half-life of LIP area of 36 Myr. There is variability in the individual half-lives for LIPs such that they range from shorter half-lives of $\sim$20 Myr up to $\sim$120 Myr for the Kalkarindji and Deccan Traps. In the analysis of LIP area through time, we implement decay scenarios informed by this analysis. `Decay 1 scenario' uses the best-fit half-life of 38 Myr while `decay 2 scenario' uses the slower decay with a half-life of $\sim$120 Myr. Given that the post-emplacement weathering and erosional history of each LIP should be dependent on the tectonic and climatic setting that each LIP experiences during and after emplacement, this approach is simplistic but provides a framework for analysis. Of the tectonic factors that could alter exposed LIP area, the most consequential is near-immediate burial of LIP volcanics by sediments if they are co-located with a rift basin. There are numerous examples in the record where there is partial or complete burial of a LIP associated with rifting and thermal subsidence (Table \ref{tab:LIPs}). For example, the Afar LIP is both associated with the Ethiopian Traps which form plateau flood basalts and successful rifting in the region of the Red Sea that has resulted in burial. To account for the rapid decrease in exposed surface area that would result from burial by sediments in a rift basin, we impose two different burial scenarios for LIPs that are co-located with rifting. `Burial 1 scenario' imposes instantaneous burial of 50$\%$ of the LIP area while `burial 2 scenario' imposes burial of the entire LIP as an end-member type scenario. The LIP area analysis uses all of the available combinations of these distinct decay and burial scenarios.
+
+The original extent LIP polygons were assigned a plate ID corresponding to a tectonic unit on Earth using the polygons of \cite{Torsvik2016a} for the Phanerozoic. The LIP polygons were reconstructed from 520 Ma to the present along with the tectonic units utilizing the paleogeographic model of \cite{Torsvik2016a} in the spin axis reference frame (anchor plate ID of 1). This paleogeographic model was updated to include a revision to Ordovician Laurentia \citep{Swanson-Hysell2017a} and the Paleozoic of Asia \citep{Domeier2018a}. Reconstructions and area calculations within latitude bands utilized the pyGPlates function library and custom Python scripts documented within a Jupyter notebook that reproduces the analysis and development of the associated visualizations. At 5 Myr timesteps, the total LIP area and the LIP area reconstructed within the tropical rain belt (15\textdegree S to 15\textdegree N) were calculated for the various decay and burial scenarios. 
+
+To determine whether there is a relationship between Earth's climate state and tropical LIP area, we compared these areas to a compilation of the latitudinal extent of continental ice sheets through time \fig{}
+
+compare these calculations to Earth's climate state 
 
 
-The post-emplacement weathering and erosional history of each LIP should be dependent on the tectonic and climatic setting that each LIP experiences during and after emplacement. 
 
-The original extent LIP polygons were assigned a plate ID corresponding to a tectonic unit on Earth using the polygons of \cite{Torsvik2016a} for the Phanerozoic. The LIP polygons were reconstructed from 520 Ma to the present along with the tectonic units utilizing the paleogeographic model of \cite{Torsvik2016a} in the spin axis reference frame (anchor plate ID of 1). This paleogeographic model was updated to include a revision to Ordovician Laurentia \citep{Swanson-Hysell2017a} and the Paleozoic of Asia \citep{Domeier2018a}. Reconstructions and area calculations within latitude bands utilized the pyGPlates function library and custom Python scripts documented within a Jupyter notebook that reproduces the analysis and development of the associated visualizations. 
+Our goal with this analysis is to determine whether there is 
+
+The null hypothesis we 
 
 
 
@@ -112,20 +116,20 @@ The original extent LIP polygons were assigned a plate ID corresponding to a tec
 For example, if a LIP is emplaced into an actively rifting basin and is quickly buried by sediments, its ability to consume CO$_2$ through silicate weathering could be significantly attenuated soon after burial. In a similar manner, without active uplift, soil shielding from regolith development on low-relief LIPs could significantly decrease the local weatherability of a LIP and mute its impact on global weatherability (9). Furthermore, the thickness of this regolith is dependent on the local climate (185). However, it is difficult to constrain when and how much each of these factors affect the post-emplacement weathering and erosional history of each LIP—in many cases the timing and extent of burial of LIPs emplaced into actively rifting basins is poorly constrained, and the timing, extent, and effect of regolith development on LIP weatherability is difficult to model. Ultimately, however, we expect all LIPs to effectively cease consuming appreciable atmospheric CO2 at some point after emplacement, either through burial or consumption of the majority of weatherable material.
 In order to account for these post-emplacement weathering and erosional histories, we imposed two post-emplacement scenarios on our calculated LIP areas (Fig. S4). In the “decay” scenario, the areas of all LIPs decay exponentially after emplacement. This approach follows that of Goddéris et al. (186) wherein the original and present-day area of five Phanerozoic LIPs were compared and exponential decay was assumed. In the analysis of Goddéris et al. (186) half-lives of the LIPs were observed to be between 90 to more than 400 Myr, with three of the five half-lives clustering at ~100 Myr. In our analysis, we take a half-life of 100 Myr as reasonable to first order, and use this value as the exponential decay half-life of the LIPs. In the “decay+burial” scenario, LIPs associated with successful rifting, associated thermal subsidence, and geological evidence for at least partial sedimentary cover soon after emplacement were instantly removed from the paleogeographic reconstruction 5 Myrs after emplacement, while all other LIPs were treated the same as in the “decay” scenario. In a successful rift, the timescale of burial of extrusive volcanics by sediments due to subsidence may vary from 0 to ~10 Myr depending on relative sea level, geometry of the rift and associated volcanics, and timing of emplacement relative to the rift-drift transition. Thus, we use 5 Myrs as a conservative estimate for timescale of burial after emplacement. The LIPs deemed to be associated with successful rifting and subsidence are: CAMP, Madagascar, Maud Rise, North Atlantic Igneous Province, NW Australia, Parana-Etendeka, Seychelles, and Wichita (Table S2).
 Our LIP reconstruction differs from that of Johansson et al. (29) in several respects. In contrast to the decay and decay+burial scenarios, Johansson et al. (29) uses a static extent for each LIP throughout the reconstruction with some of the polygons corresponding to the present-day surface extent and some of the representing the original extent that includes currently buried portions of the LIP (e.g. the North American Midcontinent Rift). The LIP compilation we utilize seeks to outline the original extent of the LIPs through use of the area of associated dikes and sills. The LIP reconstruction used in this study includes pre-Phanerozoic LIPs. However, given the imposed exponential decay since emplacement, the inclusion of these LIPs do not significantly impact the calculated LIP areas, as can be seen by the small area of LIPs prior to ca. 380 Ma in Fig. S4.
-In the “decay” scenario, we observe two primary peaks and one minor peak in calculated LIP area within the tropics (Fig. S4B). The first primary peak starting ca. 377 Ma is associated with the emplacement of the Kola-Dnieper and the second primary peak starting ca. 251 Ma is associated with the emplacement of the Central Atlantic magmatic province (CAMP). A Cenozoic peak is associated with both the ca. 30 Ma emplacement of the Afro-Arabian (Afar) LIP as well as the effect of the earlier drift of the Deccan LIP into the tropics. In the “burial” scenario, the peak associated with the CAMP is transient, but the other peaks remain (Fig. S4).
 
 \section*{RESULTS}
 
+In the “decay” scenario, we observe two primary peaks and one minor peak in calculated LIP area within the tropics (Fig. S4B). The first primary peak starting ca. 377 Ma is associated with the emplacement of the Kola-Dnieper and the second primary peak starting ca. 251 Ma is associated with the emplacement of the Central Atlantic magmatic province (CAMP). A Cenozoic peak is associated with both the ca. 30 Ma emplacement of the Afro-Arabian (Afar) LIP as well as the effect of the earlier drift of the Deccan LIP into the tropics. In the “burial” scenario, the peak associated with the CAMP is transient, but the other peaks remain (Fig. S4).
+
 \section*{DISCUSSION}
 
-In the models that proposed the ``Fire and Ice'' hypothesis for the Sturtian glaciation, chemical weathering was modeled as an Arhennius relationship where it was solely a function of temperature and run-off \citep{Donnadieu2004a}. However, such an approach neglects the effects that can result through soil shielding and regolith development in low relief regions. Recent progress on understanding the relationships between landscapes and chemical weathering (e.g. \cite{Maher2014a}) reveals that these effects are quite important. As a result, more recent modeling of chemical weathering that has incorporated such processes highlights the importance of high-relief regions \citep{Godderis2017a} (NOT SURE IF RIGHT REF FOR 2017 there are a few).
-
-\section*{CONCLUSIONS}
+In the models that proposed the ``Fire and Ice'' hypothesis for the Sturtian glaciation, chemical weathering was modeled as an Arhennius relationship where it was solely a function of temperature and run-off \citep{Donnadieu2004a}. However, such an approach neglects the effects that can result through soil shielding and regolith development in low relief regions. Recent progress on understanding the relationships between landscapes and chemical weathering (e.g. \cite{Maher2014a}) reveals that these effects are quite important. As a result, more recent modeling of chemical weathering that has incorporated such processes highlights the importance of high-relief regions \citep{Godderis2017b}).
 
 \section*{CONCLUSIONS}
 
 \section*{ACKNOWLEDGEMENTS \label{sec:ACKNOWLEDGEMENTS}}
 
+Richard Ernst provided GIS compilations of LIP extent that were essential to the analysis.
 
 \section*{FIGURES}
 
@@ -135,6 +139,14 @@ Panel B) 500 to 1200 Ma
 
 
 LIP fractional area remaining with time
+
+\begin{figure}[h!]
+\begin{center}
+	\includegraphics[width=0.65\textwidth]{Manuscript/Figures/LIP_Preservation.pdf}
+	\caption{\textbf{LIP preservation through time. The ratio of estimates of the present-day area to that of the original area are shown for 17 basaltic LIPs. The best-fit exponential function to these data is shown which has a half-life of 36 Myr.}}
+	\label{fig:LIP_preservation}
+\end{center}
+\end{figure}
 
 LIP area through the tropics through time
 Panel A) ice extent
