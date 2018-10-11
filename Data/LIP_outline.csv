@@ -1,7 +1,7 @@
 ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,2018_Name,2018_Age,PLATEID,area_km2
-0,C,Emeishan,,South China craton,258 Ma,Emeishan,,259,Emeishan,259,602,704071.4510831172
+0,C,Emeishan,,South China craton,258 Ma,Emeishan,,259,Emeishan,259,602,705818.4772062206
 0,C,Yakutsk-Vilyui,,Siberian craton,ca. 370,Yakutsk-Vilyui,,370,Vilyui,374,404,1143822.3022723389
-0,C,Kalkarindji,,Australian craton,510 Ma,Kalkarindji,,510,Kalkarindji,511,801,3541781.8950359463
+0,C,Kalkarindji,,Australian craton,510 Ma,Kalkarindji,,510,Kalkarindji,511,801,3543990.0165662281
 0,C,Magdalen-Maritimes,,Appalachian terranes,360-320 Ma,Appalachians,,360,Magdalen,360,101,421843.1721644479
 0,C,Kola-Dnieper [East European craton],,Baltica,365 Ma,Kola-Dnieper [East European craton],,370,Kola-Dnieper,380,302,5899074.2352424674
 0,C,Wichita Mountains,,Laurentia,ca. 530,Wichita mtns,,530,Wichita,535,101,181314.2833335028
@@ -12,51 +12,49 @@ ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,2018_
 0,C,Baltoscandian - Egersund,,Baltica,616 Ma,Egersund,,615,CIMP - B,615,302,14497.1183029798
 0,C,Baltoscandian - Egersund,,Baltica,616 Ma,Baltoscandian,,615,CIMP - B,615,302,60366.0944743193
 0,C,Catoctin,,Laurentia,560 Ma,Catoctin,,560,CIMP - A,580,101,14143.0865112204
-0,C,CAMP-Africa,,,204-191 Ma (peak at 200 Ma),CAMP-Africa,,201,CAMP,201,714,4367025.0410956675
-0,C,CAMP-South America,,,204-191 Ma (peak at 200 Ma),CAMP-South America,,201,CAMP,201,201,5462594.4219467938
+0,C,CAMP-Africa,,,204-191 Ma (peak at 200 Ma),CAMP-Africa,,201,CAMP,201,714,4389931.5395968864
+0,C,CAMP-South America,,,204-191 Ma (peak at 200 Ma),CAMP-South America,,201,CAMP,201,201,5495408.8665355826
 0,C,CAMP-Eastern North America (ENA),,,204-191 Ma (peak at 200 Ma),CAMP-North America,,201,CAMP,201,101,1338606.3418901348
-0,C,CAMP-Europe,,,204-191 Ma (peak at 200 Ma),CAMP-Iberia,,201,CAMP,201,304,213840.2475073352
+0,C,CAMP-Europe,,,204-191 Ma (peak at 200 Ma),CAMP-Iberia,,201,CAMP,201,304,218896.0775134081
 0,C,CAMP-Europe,,,204-191 Ma (peak at 200 Ma),CAMP-Brittany,,201,CAMP,201,305,13948.2694422095
-0,C,Karoo,,,183-179 Ma,Karoo (Africa),,183,Karoo,183,701,3174830.9353777487
-0,C,Madagascar,,,mainly 90-84 Ma,Madagascar,,93,Madagascar,90,702,617886.1853618338
+0,C,Karoo,,,183-179 Ma,Karoo (Africa),,183,Karoo,183,701,3206783.9308303199
+0,C,Madagascar,,,mainly 90-84 Ma,Madagascar,,93,Madagascar,90,702,627072.2037945148
 0,C,Trap,,,140-130 Ma,Trap,,140,Trap,140,102,29698.4592192819
 0,C,Ferrar,,,183-179 Ma,Ferrar-1,,183,Ferrar,183,841,91069.4120940259
 0,C,Ferrar,,,183-179 Ma,Ferrar-2,,183,Ferrar,183,841,62435.1359267552
 0,C,Ferrar,,,183-179 Ma,Ferrar-3,,183,Ferrar,183,841,25360.6044455693
 0,C,Columbia River,,,mainly 16.5-14.5 Ma,Columbia River,,16,Columbia River,16,101,676420.9638731702
-0,C,Deccan,,,66 Ma,Deccan,,66,Deccan,66,501,698130.3072758717
+0,C,Deccan,,,66 Ma,Deccan,,66,Deccan,66,501,831189.9642862922
 0,C,NAIP (North Atlantic Volcanic Province)-Europe,,,mainly 62-58 Ma,British Tertiary,,62,NAIP,62,303,252594.5404084782
-0,C,Siberian Trap LIP,,,251-249 Ma,Siberian Trap LIP,,251,Siberia,252,401,3454382.6305273217
+0,C,Siberian Trap LIP,,,251-249 Ma,Siberian Trap LIP,,251,Siberia,252,401,3459274.3637365820
 0,C,Tarim,,,280,Tarim,,280,Tarim,290,480,198984.3002889378
 0,C,EQUAMP (Equatorial Atlantic Magmatic Province),,South America,130,,,134,EQUAMP,131,201,660290.9507699276
 0,C,South Qiangtang,,South Qiangtang terrane,280 Ma,,,280,Qiangtang,283,616,66486.3776204153
 0,C,Panjal,,Aravelli craton,280 Ma,,,280,Panjal,283,563,44571.6764471598
-0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,204,25373.8459723713
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,204,30821.5790481345
 0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,240,8821.3349674810
 0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,249,5988.0394509861
 0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,239,247807.3345807547
 0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,237,4960.4988314712
 0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,244,46825.4427994840
 0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,243,57073.7218929679
-0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,245,133860.3954674241
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,245,135323.6649389088
 0,C,NW Australian Margin,,,160-140 Ma,NW Australian Margin,,160,NW Australia Margin,160,801,619071.3436989126
 0,C,Parana-Etendeka,,,130,"volcanic margin, offshore, Equatorial West Africa",,134,Parana-Etendeka,135,701,21679.4113089378
 0,C,Etendeka,,,138-122 Ma,Etendeka,,134,Parana-Etendeka,135,701,873069.2220831800
-,,Bunbury,,,,,,,Bunbury,132,801,25916.2209513945
+,,Bunbury,,,,,,,Bunbury,132,801,31649.6626971462
 ,,Comei,,,,,,,Comei,132,606,105445.2503466975
 ,,Suordakh,,,,,,450,Suordakh,450,420,18209.6998259633
-0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,Afar,30,715,1394472.2557648299
-0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,Afar,30,503,618280.6503447228
-0,C,Parana-Etendeka,,,130,volcanic passive margin (off South America),,134,Parana-Etendeka,135,202,16035.8316280738
-0,C,Parana-Etendeka,,,130,volcanic passive margin (off South America),,134,Parana-Etendeka,135,290,41046.8386066438
-0,C,NAIP (North Atlantic Volcanic Province)-Greenland,,,62-58 Ma,Greenland-NAIP,,62,NAIP,62,102,802843.1057100138
+0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,Afar,30,715,1417435.4521638399
+0,C,Afro-Arabian,,,mainly 31-29 Ma,Afar,,31,Afar,30,503,629563.8459541220
+0,C,NAIP (North Atlantic Volcanic Province)-Greenland,,,62-58 Ma,Greenland-NAIP,,62,NAIP,62,102,818946.0717591584
 0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,120,918679.3070330024
 0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,121,25498.2624441255
 0,"C, O",HALIP (Asia-North America side),,,120-90 Ma,,,120,HALIP,95,102,187255.5587051118
 0,C,Deccan,,India,66,Chagos-Laccadive (3000M & gravity contour),,66,Seychelles,66,501,456198.2893804010
 0,"C, O",HALIP (European side),,,120-90 Ma,,,120,HALIP,95,311,2053095.1384217057
-0,C,Parana,,,mainly 134-129 Ma,Parana,,134,Parana-Etendeka,135,201,1507093.8391483375
-0,C,Parana,,,mainly 134-129 Ma,Parana,,134,Parana-Etendeka,135,202,527154.0578731546
+0,C,Parana,,,mainly 134-129 Ma,Parana,,134,Parana-Etendeka,135,201,1576848.0233286552
+0,C,Parana,,,mainly 134-129 Ma,Parana,,134,Parana-Etendeka,135,202,563863.7606298839
 0,C,Parana,,,mainly 134-129 Ma,Parana,,134,Parana-Etendeka,135,290,85318.7486749816
 0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,248,579.5218221036
 0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,248,5580.9602223738
@@ -82,3 +80,5 @@ ID,Type_C_0_S,NAME_EVENT,NAME_ALT,CRUST_BLK,AGE_TEXT,NAME_PART,COMMENT,AGE,2018_
 0,C,Abitibi,,Laurentia,1140 Ma,Abitibi,,1140,Abitibi,1141,101,311555.4849637944
 0,C,Sudbury [dykes],,Laurentia,1235 - 1238 Ma,Sudbury [dykes],,1235,Sudbury,1235,101,180118.1540074978
 0,C,CSDG- includes swarm of Goldberg 2010 J. Geodynam.,,Baltica,1260,Central Scandinavian Dolerite Group,,1260,CSDG,1255,302,263737.1621165290
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,246,60821.0667813514
+0,C-O,Caribbean-Colombian,,,mainly 90- 87 Ma,CCCIP (Caribbean-Colombian Cretaceous Igneous Prov,,95,Caribbean-Colombian,94,247,107648.5784383365
