@@ -99,7 +99,7 @@ After LIPs are emplaced they will progressively erode. In order to account for t
 
 The original extent LIP polygons were assigned a plate ID corresponding to a tectonic unit on Earth using the polygons of \cite{Torsvik2016a} for the Phanerozoic. The LIP polygons were reconstructed from 520 Ma to the present along with the tectonic units utilizing the paleogeographic model of \cite{Torsvik2016a} in the spin axis reference frame (anchor plate ID of 1). This paleogeographic model was updated to include a revision to Ordovician Laurentia \citep{Swanson-Hysell2017a} and the Paleozoic of Asia \citep{Domeier2018a}. Reconstructions and area calculations within latitude bands utilized the pyGPlates function library and custom Python scripts documented within a Jupyter notebook that reproduces the analysis and development of the associated visualizations. At 5 Myr timesteps, the total LIP area and the LIP area reconstructed within the tropical rain belt (15\textdegree S to 15\textdegree N) were calculated for the various decay and burial scenarios. 
 
-To determine whether there is a relationship between Earth's climate state and tropical LIP area, we compared these areas to a compilation of the latitudinal extent of continental ice sheets through time \fig{}
+To determine whether there is a relationship between Earth's climate state and tropical LIP area, we compared these areas to a compilation of the latitudinal extent of continental ice sheets through time \fig{}. WHY NOT USING CO2?
 
 compare these calculations to Earth's climate state 
 
@@ -125,6 +125,8 @@ In the “decay” scenario, we observe two primary peaks and one minor peak in 
 
 In the models that proposed the ``Fire and Ice'' hypothesis for the Sturtian glaciation, chemical weathering was modeled as an Arhennius relationship where it was solely a function of temperature and run-off \citep{Donnadieu2004a}. However, such an approach neglects the effects that can result through soil shielding and regolith development in low relief regions. Recent progress on understanding the relationships between landscapes and chemical weathering (e.g. \cite{Maher2014a}) reveals that these effects are quite important. As a result, more recent modeling of chemical weathering that has incorporated such processes highlights the importance of high-relief regions \citep{Godderis2017b}).
 
+DISCUSS FRANKLIN AND UMKONDO AREAS AND COMPARE TO THE PHANEROZOIC RECORD. 
+
 \section*{CONCLUSIONS}
 
 \section*{ACKNOWLEDGEMENTS \label{sec:ACKNOWLEDGEMENTS}}
@@ -133,12 +135,13 @@ Richard Ernst provided GIS compilations of LIP extent that were essential to the
 
 \section*{FIGURES}
 
-LIP Location map
-Panel A) 0 to 500 Ma
-Panel B) 500 to 1200 Ma
-
-
-LIP fractional area remaining with time
+\begin{figure}[h!]
+\begin{center}
+	\includegraphics[width=0.65\textwidth]{Manuscript/Figures/LIP_Preservation.pdf}
+	\caption{\textbf{Map of current extent of lithologies associated with LIPs and estimates of the initial LIP area.}}
+	\label{fig:LIP_map}
+\end{center}
+\end{figure}
 
 \begin{figure}[h!]
 \begin{center}
@@ -148,20 +151,34 @@ LIP fractional area remaining with time
 \end{center}
 \end{figure}
 
-LIP area through the tropics through time
+\begin{figure}[h!]
+\begin{center}
+	\includegraphics[width=0.65\textwidth]{Manuscript/Figures/LIP_Preservation.pdf}
+	\caption{\textbf{LIP area through the tropics through time
 Panel A) ice extent
 Panel B) all latitude 
 Panel C) in the tropics (different models)
-Panel D) heat map of one of the models
+Panel D) heat map of one of the models}}
+	\label{fig:LIP_area}
+\end{center}
+\end{figure}
 
-Monte Carlo null hypothesis test
+\begin{figure}[h!]
+\begin{center}
+	\includegraphics[width=0.65\textwidth]{Manuscript/Figures/LIP_Preservation.pdf}
+	\caption{\textbf{Monte Carlo null hypothesis test
 Panel A) total LIP
 Panel B) LIP in the tropics
 Panel C) continental fraction in the tropics
-Panel D) sutures(??)
+Panel D) sutures(?)}}
+	\label{fig:LIP_correlation}
+\end{center}
+\end{figure}
 
 
 
+
+\newpage
 \footnotesize
 
 XXX
