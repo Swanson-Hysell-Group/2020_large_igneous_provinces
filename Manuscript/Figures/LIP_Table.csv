@@ -1,0 +1,28 @@
+name,age,age ref.,original area Mkm2,present area Mkm2,present area ref.,present/original,buried
+Columbia River,16.0,Kasbohm and Schoene (2018),0.68,0.38,Buchan and Ernst (2004),0.56,no
+Afar,30.0,Courtillot and Renne (2003),2.05,0.63,Coffin et al. (2006),0.31,partial
+NAIP,62.0,Larsen et al. (2016),1.07,0.29,"Buchan and Ernst (2004), Coffin et al. (2006)",0.27,partial
+Deccan,66.0,Schoene (2015),0.83,0.56,Coffin et al. (2006),0.68,no
+Seychelles,66.0,Schoene (2015),0.46,0.0,Coffin et al. (2006),0.0,yes
+Madagascar,90.0,Cucciniello et al. (2010),0.63,0.03,Coffin et al. (2006),0.05,no
+Caribbean-Colombian,94.0,Loewen et al. (2013),0.71,0.13,Coffin et al. (2006),0.18,no
+HALIP,95.0,Kingsbury et al. (2018),3.6,0.15,Moosdorf and Hartmann (2015),0.04,no
+EQUAMP,131.0,Hollanda et al. (2016),0.66,0.01,Hollanda et al. (2016),0.01,no
+Comei,132.0,Zhu et al. (2009),0.11,,n/a,,no
+Bunbury,132.0,Zhu et al. (2009),0.03,0.0,Thorne et al. (2014),0.05,no
+Parana-Etendeka,135.0,Florisbal et al. (2014),3.12,0.4,"Coffin et al. (2016), Teixeira and Albrez (2017)",0.13,partial
+Trap,140.0,Ernst et al. (2001),0.03,0.0,Ernst and Buchan (2001),0.0,no
+NW Australia Margin,160.0,COME BACK TO THIS,0.62,0.0,Coffin et al. (2006),0.0,yes
+Karoo,183.0,Burgess et al. (2015),3.21,0.15,de Kock compilation,0.05,no
+Ferrar,183.0,Burgess et al. (2015),0.18,,n/a,,no
+CAMP,201.0,Blackburn et al. (2013),11.46,0.23,Marzoli and Parisio compilation,0.02,partial
+Siberia,252.0,Burgess and Bowring (2015),3.46,0.47,Coffin et al. (2006),0.14,no
+Emeishan,259.0,Zhou et al. (2002),0.71,0.06,Coffin et al. (2006),0.09,no
+Panjal-Qiangtang,283.0,Zhai et al. (2013),0.11,,n/a,,no
+Tarim,290.0,Xu et al. (2014),0.35,,n/a,,no
+Magdalen,360.0,Murphy et al. (1999),0.42,,n/a,,no
+Vilyui,374.0,Renne et al. (2010),1.14,,n/a,,no
+Kola-Dnieper,380.0,Arzamastsev and Wu (2014),5.9,,n/a,,no
+Suordakh,450.0,Khudoley et al. (2013),0.02,,n/a,,no
+Kalkarindji,511.0,Jourdan et al. (2014),3.54,0.17,Thorne et al. (2014),0.05,no
+Franklin,720.0,Denyszyn et al. (2009),2.62,0.04,Buchan and Ernst (2004),0.02,no
