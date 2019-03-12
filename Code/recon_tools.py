@@ -559,7 +559,211 @@ def get_lengths_in_bands(reconstructed_feature_geometries, lat_mins, lat_maxs):
     return accumulated_lengths, length_polylines, polyline_attributes
 
 
-########## WEATHERING CALCULATIONS ##########
+########## PLOTTING FUNCTIONS ##########
+
+
+def plot_reconstructed_features(ax, reconstructed_feature, **kwargs):
+    """
+    Plot reconstructed features output by pygplates.
+
+    Parameters
+    ----------
+    ax : axis handle
+        axis set up by cartopy on which to plot
+
+    reconstructed_feature : reconstructed features
+        reconstructed features output by pygplates
+
+    Other Parameters
+    ----------------
+    **kwargs passed to plt.add_geometries
+
+    Returns
+    -------
+    None.
+    """
+    for n in range(len(reconstructed_feature)):
+
+        # pull out lat/lon vertices
+        lat_lon_array = reconstructed_feature[n].get_reconstructed_geometry().to_lat_lon_array()
+        lats = lat_lon_array[:,0]
+        lons = lat_lon_array[:,1]
+
+        # polygons need to be drawn counter clockwise to be drawn properly if they cross the dateline
+        if reconstructed_feature[n].get_reconstructed_geometry().get_orientation() == pygplates.PolygonOnSphere.Orientation.clockwise:
+            lats = np.flip(lats)
+            lons = np.flip(lons)
+
+        # create the polygon and add it to the axis
+        # note that ccrs.Geodetic() must be used to make sure that polygons that cross the dateline are drawn properly
+        poly = Polygon(zip(lons,lats))
+        ax.add_geometries([poly], ccrs.Geodetic(), **kwargs)
+
+
+########## OLD FUNCTIONS ##########
+
+
+def weather_LIPs_OLD(reconstructed_feature_geometries, LIP_fracs, Ts, Rs, t_step, thickness, density):
+    """
+    A model for weathering LIPs, using weathering equation from Dessert et al. (2003).
+
+    Parameters
+    ----------
+    reconstructed_feature_geometries : list
+        list of reconstructed features
+    LIP_fracs : dictionary
+        with keys = LIP names, values = LIP fraction remaining
+    Ts : dataframe
+        of zonal temperature
+    Rs : dataframe
+        of zonal runoff
+    t_step : float
+        time since last weathering calculation (million years)
+    thickness : float
+        LIP thickness (km)
+    density : float
+        LIP density (kg/km^3)
+
+    Returns
+    -------
+    None.
+
+    Notes
+    -----
+    modifies LIP_fracs in place
+    """
+    # only calculate if there are geometries
+    if len(reconstructed_feature_geometries) > 0:
+        # the time
+        t = int(reconstructed_feature_geometries[0].get_reconstruction_time())
+
+        # only calculate if the t is in our climate model
+        T_string = 'T_C_'+str(t)
+        if T_string in Ts.columns:
+
+            # iterate over each polygon
+            for i in range(len(reconstructed_feature_geometries)):
+
+                # get the name
+                current_name = reconstructed_feature_geometries[i].get_feature().get_name()
+
+                # only calculate if there is some LIP left
+                if LIP_fracs[current_name] > 0:
+
+                    # get the polygon, ID, area, mass, and centre latitude
+                    current_polygon = reconstructed_feature_geometries[i].get_reconstructed_geometry()
+
+                    og_mass = current_polygon.get_area() * (6371.009**2) * thickness * density
+
+                    current_area = (current_polygon.get_area() * 6371.009**2) * LIP_fracs[current_name]
+                    current_mass = current_area * thickness * density
+
+                    centre_point = current_polygon.get_interior_centroid()
+                    centre_lat = centre_point.to_lat_lon_array()[0][0]
+
+                    # get the T and R at this time and latitude
+                    for j in range(len(Ts.index)):
+                        if abs(centre_lat)<Ts['lat_maxs'][j] and abs(centre_lat)>Ts['lat_mins'][j]:
+                            T = Ts['T_C_'+str(t)][j]
+                    for j in range(len(Rs.index)):
+                        if centre_lat<Rs['lat_maxs'][j] and centre_lat>Rs['lat_mins'][j]:
+                            R = Rs['R_m/yr_'+str(t)][j]
+
+                    # get the weathering rate (t/km^2/yr) - from Dessert et al. (2003)
+                    fw = (R * 18.41 * np.exp(0.0533 * T)) / 0.649
+
+                    # weather (kg)
+                    weather_mass = fw * current_area * abs(t_step)*1e6 * 1000
+
+                    # update the mass
+                    current_mass = current_mass - weather_mass
+
+                    # update the remaining fraction in place
+                    if current_mass > 0:
+                        LIP_fracs[current_name] = current_mass / og_mass
+                    else:
+                        LIP_fracs[current_name] = 0
+
+        # if the t is not in our climate model, fill the dictionary with nans
+        else:
+            # if the dictionary is already filled with nans, we can move on
+            if math.isnan(LIP_fracs[reconstructed_feature_geometries[0].get_feature().get_name()]):
+                pass
+            else:
+                for key, value in LIP_fracs.iteritems():
+                    LIP_fracs[key] = float('NaN')
+
+
+def get_LIP_areas_in_bands_OLD(reconstructed_feature_geometries, lat_mins, lat_maxs, LIP_fracs):
+    """
+    Get the area of all LIP features in each latitude band, accounting for weathering.
+
+    Parameters
+    ----------
+    reconstructed_feature_geometries : list
+        list of reconstructed features
+    lat_mins : array-like
+        array-like of latitude minimums
+    lat_maxs : array_like
+        array_like of latitude maximums
+    LIP_fracs : dictionary
+        with keys = LIP names, values = LIP fraction remaining
+
+    Returns
+    -------
+    areas : list
+        list of total area in each latitude band
+    area_polygons : list
+        list of all polygons for which areas were calculated
+    """
+    # only calculate if there are geometries
+    if len(reconstructed_feature_geometries) > 0:
+        # if our LIP_fracs has nan's
+        if math.isnan(LIP_fracs[reconstructed_feature_geometries[0].get_feature().get_name()]):
+            areas = [np.nan]*len(lat_mins)
+            area_polygons = None
+
+        # if our LIP_fracs has values
+        else:
+            # storage vectors
+            areas = []
+            area_polygons = []
+
+            # iterate over each latitude band
+            for i in range(len(lat_mins)):
+
+                accumulated_area = 0
+
+                # iterate over each polygon
+                for j in range(len(reconstructed_feature_geometries)):
+
+                    current_polygon = reconstructed_feature_geometries[j].get_reconstructed_geometry()
+                    current_name = reconstructed_feature_geometries[j].get_feature().get_name()
+
+                    # check if the polygon is in the band
+                    in_band = check_polygon_in_band(current_polygon, lat_mins[i], lat_maxs[i])
+
+                    if in_band:
+                        # do the calculation
+                        area, band_polygon = get_area_in_band(current_polygon, lat_mins[i], lat_maxs[i])
+
+                        # scale the area appropriately
+                        area = area * LIP_fracs[current_name]
+
+                        # store results
+                        accumulated_area = accumulated_area + area
+                        area_polygons.append(band_polygon)
+
+                # store total area for the band
+                areas.append(accumulated_area)
+
+    else:
+        areas = [0]*len(lat_mins)
+        area_polygons = []
+
+    return areas, area_polygons
+
+########## OLD WEATHERING CALCULATIONS ##########
 
 
 def get_LIP_areas_in_bands(reconstructed_feature_geometries, lat_mins, lat_maxs, thresh=None, halflife=None):
@@ -793,279 +997,3 @@ def weather_LIPs(reconstructed_feature_geometries, LIP_fracs, climate_df, t_step
                     LIP_fracs[current_Id] = current_mass / og_mass
                 else:
                     LIP_fracs[current_Id] = 0
-
-
-########## PLOTTING FUNCTIONS ##########
-
-def plot_feature(ax,feature,color='grey',linewidth=1):
-    for n in range(len(feature)):
-
-        # pull out lat/lon vertices
-        lat_lon_array = feature[n].to_lat_lon_array()
-        lats = lat_lon_array[:,0]
-        lons = lat_lon_array[:,1]
-
-        ax.plot(lons,lats, transform=ccrs.Geodetic(), color=color, linewidth=linewidth)
-
-
-def plot_reconstructed_feature(ax,reconstructed_feature,color='grey',linewidth=1):
-    for n in range(len(reconstructed_feature)):
-
-        # pull out lat/lon vertices
-        lat_lon_array = reconstructed_feature[n].get_reconstructed_geometry().to_lat_lon_array()
-        lats = lat_lon_array[:,0]
-        lons = lat_lon_array[:,1]
-
-        ax.plot(lons,lats, transform=ccrs.Geodetic(), color=color, linewidth=linewidth)
-
-
-def plot_reconstruction(reconstructed_feature_geometries_list, color_list, lon_0):
-    """
-    Plot a global reconstruction from pygplates.
-
-    Parameters
-    ----------
-    reconstructed_feature_geometries_list : list of lists
-        list of lists of reconstructed features
-    color_list : list of colors
-        list of matplotlib color for geometries
-    lon_0 : float
-        the central longitude for viewing
-
-    Returns
-    -------
-    None.
-    """
-    # initialize map
-    fig = plt.figure(figsize=(12,10))
-
-    ax = plt.subplot(1, 1, 1, projection=ccrs.Robinson(central_longitude=lon_0))
-
-    ax.set_title(str(reconstructed_feature_geometries_list[0][0].get_reconstruction_time()) + ' Ma')
-    ax.gridlines(xlocs=np.arange(-180,181,60),ylocs=np.arange(-90,91,30),linestyle='--')
-
-    # loop over each reconstructed geometry list
-    for i in range(len(reconstructed_feature_geometries_list)):
-
-        # loop over each reconstructed geometry
-        for j in range(len(reconstructed_feature_geometries_list[i])):
-
-            # pull out lat/lon vertices
-            lat_lon_array = reconstructed_feature_geometries_list[i][j].get_reconstructed_geometry().to_lat_lon_array()
-            lats = lat_lon_array[:,0]
-            lons = lat_lon_array[:,1]
-
-            # zip the result
-            poly = Polygon(zip(lons, lats))
-
-            # add the polygon to the map
-            ax.add_geometries([poly], ccrs.PlateCarree(), facecolor=color_list[i], edgecolor='k', alpha=0.5)
-            #ax.plot(lons,lats,transform=ccrs.Geodetic(),color=color_list[i],linewidth=1)
-
-    plt.show()
-
-
-def plot_polygons(polygon_list, color, lon_0):
-    """
-    Plot pygplates polygons.
-
-    Parameters
-    ----------
-    polygon_list : list
-        list of pygplates polygons
-    color : color
-        matplotlib color for geometries
-    lon_0 : float
-        the central longitude for viewing
-
-    Returns
-    -------
-    None.
-    """
-    # initialize map
-    fig = plt.figure(figsize=(12,10))
-
-    ax = plt.subplot(1, 1, 1, projection=ccrs.Robinson(central_longitude=lon_0))
-    ax.gridlines(xlocs=np.arange(-180,181,60),ylocs=np.arange(-90,91,30),linestyle='--')
-
-    # loop over each polygon
-    for i in range(len(polygon_list)):
-
-        if polygon_list[i] != None:
-            # pull out lat/lon vertices
-            lat_lon_array = polygon_list[i].to_lat_lon_array()
-            lats = lat_lon_array[:,0]
-            lons = lat_lon_array[:,1]
-
-            # zip the result
-            poly = Polygon(zip(lons, lats))
-
-            # add the polygon to the map
-            ax.add_geometries([poly], ccrs.PlateCarree(), facecolor=color, edgecolor='k', alpha=0.5)
-            #ax.plot(lons,lats,transform=ccrs.Geodetic(),color=color,linewidth=1)
-
-    plt.show()
-
-
-########## OLD FUNCTIONS ##########
-
-
-def weather_LIPs_OLD(reconstructed_feature_geometries, LIP_fracs, Ts, Rs, t_step, thickness, density):
-    """
-    A model for weathering LIPs, using weathering equation from Dessert et al. (2003).
-
-    Parameters
-    ----------
-    reconstructed_feature_geometries : list
-        list of reconstructed features
-    LIP_fracs : dictionary
-        with keys = LIP names, values = LIP fraction remaining
-    Ts : dataframe
-        of zonal temperature
-    Rs : dataframe
-        of zonal runoff
-    t_step : float
-        time since last weathering calculation (million years)
-    thickness : float
-        LIP thickness (km)
-    density : float
-        LIP density (kg/km^3)
-
-    Returns
-    -------
-    None.
-
-    Notes
-    -----
-    modifies LIP_fracs in place
-    """
-    # only calculate if there are geometries
-    if len(reconstructed_feature_geometries) > 0:
-        # the time
-        t = int(reconstructed_feature_geometries[0].get_reconstruction_time())
-
-        # only calculate if the t is in our climate model
-        T_string = 'T_C_'+str(t)
-        if T_string in Ts.columns:
-
-            # iterate over each polygon
-            for i in range(len(reconstructed_feature_geometries)):
-
-                # get the name
-                current_name = reconstructed_feature_geometries[i].get_feature().get_name()
-
-                # only calculate if there is some LIP left
-                if LIP_fracs[current_name] > 0:
-
-                    # get the polygon, ID, area, mass, and centre latitude
-                    current_polygon = reconstructed_feature_geometries[i].get_reconstructed_geometry()
-
-                    og_mass = current_polygon.get_area() * (6371.009**2) * thickness * density
-
-                    current_area = (current_polygon.get_area() * 6371.009**2) * LIP_fracs[current_name]
-                    current_mass = current_area * thickness * density
-
-                    centre_point = current_polygon.get_interior_centroid()
-                    centre_lat = centre_point.to_lat_lon_array()[0][0]
-
-                    # get the T and R at this time and latitude
-                    for j in range(len(Ts.index)):
-                        if abs(centre_lat)<Ts['lat_maxs'][j] and abs(centre_lat)>Ts['lat_mins'][j]:
-                            T = Ts['T_C_'+str(t)][j]
-                    for j in range(len(Rs.index)):
-                        if centre_lat<Rs['lat_maxs'][j] and centre_lat>Rs['lat_mins'][j]:
-                            R = Rs['R_m/yr_'+str(t)][j]
-
-                    # get the weathering rate (t/km^2/yr) - from Dessert et al. (2003)
-                    fw = (R * 18.41 * np.exp(0.0533 * T)) / 0.649
-
-                    # weather (kg)
-                    weather_mass = fw * current_area * abs(t_step)*1e6 * 1000
-
-                    # update the mass
-                    current_mass = current_mass - weather_mass
-
-                    # update the remaining fraction in place
-                    if current_mass > 0:
-                        LIP_fracs[current_name] = current_mass / og_mass
-                    else:
-                        LIP_fracs[current_name] = 0
-
-        # if the t is not in our climate model, fill the dictionary with nans
-        else:
-            # if the dictionary is already filled with nans, we can move on
-            if math.isnan(LIP_fracs[reconstructed_feature_geometries[0].get_feature().get_name()]):
-                pass
-            else:
-                for key, value in LIP_fracs.iteritems():
-                    LIP_fracs[key] = float('NaN')
-
-
-def get_LIP_areas_in_bands_OLD(reconstructed_feature_geometries, lat_mins, lat_maxs, LIP_fracs):
-    """
-    Get the area of all LIP features in each latitude band, accounting for weathering.
-
-    Parameters
-    ----------
-    reconstructed_feature_geometries : list
-        list of reconstructed features
-    lat_mins : array-like
-        array-like of latitude minimums
-    lat_maxs : array_like
-        array_like of latitude maximums
-    LIP_fracs : dictionary
-        with keys = LIP names, values = LIP fraction remaining
-
-    Returns
-    -------
-    areas : list
-        list of total area in each latitude band
-    area_polygons : list
-        list of all polygons for which areas were calculated
-    """
-    # only calculate if there are geometries
-    if len(reconstructed_feature_geometries) > 0:
-        # if our LIP_fracs has nan's
-        if math.isnan(LIP_fracs[reconstructed_feature_geometries[0].get_feature().get_name()]):
-            areas = [np.nan]*len(lat_mins)
-            area_polygons = None
-
-        # if our LIP_fracs has values
-        else:
-            # storage vectors
-            areas = []
-            area_polygons = []
-
-            # iterate over each latitude band
-            for i in range(len(lat_mins)):
-
-                accumulated_area = 0
-
-                # iterate over each polygon
-                for j in range(len(reconstructed_feature_geometries)):
-
-                    current_polygon = reconstructed_feature_geometries[j].get_reconstructed_geometry()
-                    current_name = reconstructed_feature_geometries[j].get_feature().get_name()
-
-                    # check if the polygon is in the band
-                    in_band = check_polygon_in_band(current_polygon, lat_mins[i], lat_maxs[i])
-
-                    if in_band:
-                        # do the calculation
-                        area, band_polygon = get_area_in_band(current_polygon, lat_mins[i], lat_maxs[i])
-
-                        # scale the area appropriately
-                        area = area * LIP_fracs[current_name]
-
-                        # store results
-                        accumulated_area = accumulated_area + area
-                        area_polygons.append(band_polygon)
-
-                # store total area for the band
-                areas.append(accumulated_area)
-
-    else:
-        areas = [0]*len(lat_mins)
-        area_polygons = []
-
-    return areas, area_polygons
