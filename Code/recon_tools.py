@@ -559,6 +559,42 @@ def get_lengths_in_bands(reconstructed_feature_geometries, lat_mins, lat_maxs):
     return accumulated_lengths, length_polylines, polyline_attributes
 
 
+def get_points_in_bands(reconstructed_feature_geometries, lat_mins, lat_maxs):
+    """
+    Get the number of all features in each latitude band.
+
+    Parameters
+    ----------
+    reconstructed_feature_geometries : list
+        list of reconstructed features
+    lat_mins : array-like
+        array-like of latitude minimums
+    lat_maxs : array_like
+        array_like of latitude maximums
+
+    Returns
+    -------
+    points : array
+        list of total number of points in each latitude band
+    """
+    # storage vector
+    points = np.zeros(len(lat_mins))
+
+    # iterate over each point
+    for i in range(len(reconstructed_feature_geometries)):
+
+        # get the latitude of the point
+        current_point = reconstructed_feature_geometries[i].get_reconstructed_geometry()
+        current_lat = current_point.to_lat_lon_array()[:,0]
+
+        # put the point where it belongs
+        for j in range(len(points)):
+            if current_lat>lat_mins[j] and current_lat<lat_maxs[j]:
+                points[j] = points[j] + 1
+
+    return points
+
+
 ########## PLOTTING FUNCTIONS ##########
 
 
@@ -598,6 +634,36 @@ def plot_reconstructed_features(ax, reconstructed_feature, **kwargs):
         # note that ccrs.Geodetic() must be used to make sure that polygons that cross the dateline are drawn properly
         poly = Polygon(zip(lons,lats))
         ax.add_geometries([poly], ccrs.Geodetic(), **kwargs)
+
+
+def plot_reconstructed_points(ax, reconstructed_feature, **kwargs):
+    """
+    Plot reconstructed points output by pygplates.
+
+    Parameters
+    ----------
+    ax : axis handle
+        axis set up by cartopy on which to plot
+
+    reconstructed_feature : reconstructed features
+        reconstructed features output by pygplates
+
+    Other Parameters
+    ----------------
+    **kwargs passed to plt.add_geometries
+
+    Returns
+    -------
+    None.
+    """
+    for n in range(len(reconstructed_feature)):
+
+        # pull out lat/lon vertices
+        lat_lon_array = reconstructed_feature[n].get_reconstructed_geometry().to_lat_lon_array()
+        lats = lat_lon_array[:,0]
+        lons = lat_lon_array[:,1]
+
+        ax.scatter(lons, lats, transform=ccrs.Geodetic(), **kwargs)
 
 
 ########## OLD FUNCTIONS ##########
