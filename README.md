@@ -1,35 +1,71 @@
-# Large_Igneous_Provinces
+# Evaluating the relationship between the area and latitude of large igneous provinces and Earth’s long-term climate state
 
-## Plan
+This repository contains data and code associated with the following paper:
 
-### Figures
+XXX
 
-* LIP distribution through time (heat map)
-    * using a few different models:
-        * no attenuation
-        * decay with half lives derived from present day areal extent
-        * potentially other decay scenarios such as linear
-        * same as above, but accounting for burial
-* LIPs in the tropics through time
-    * with the same models as above
-* fractional LIP area vs time since emplacement
-    * all LIPs to
-* ice extent
-* statistics/correlation figure
-* global map showing LIP polygons - both present day and inferred original
-* table with columns:
-    * name
-    * eruption age
-    * original area
-    * present day area
-    * model half life
-    * buried or not buried
+## Repository Overview
 
-### Text
+### Code
 
-* LIP record
-    * mention that it is likely overestimate of original area
-    * discuss importance of post-emplacement history
-    * describe method
-* ice extent record
-* correlation between the two
+This folder contains the Jupyter notebooks that were used to perform the analyses presented in this study.
+
+* **Correlation_analysis.ipynb**
+    * Uses a Matlab kernel to assess the statistical significance of correlation between time series of zonal large igneous province area (i.e. the area of large igneous provinces in a given latitude band) and ice extent.
+* **Franklin_Umkondo.ipynb**
+    * Uses a Python 2 kernel to calculate the area of the Franklin and Umkondo large igneous provinces in the tropics at the time of their emplacement.
+* **Paleogeographic_Reconstruction.ipynb**
+    * Uses a Python 2 kernel to reconstruct the paleolatitude and calculate the zonal area (i.e. the area in a given latitude band) of large igneous provinces throughout the Phanerozoic.
+    * Outputs of this analysis are stored in the **reconstruction_output** subfolder.
+* **Present_Day_Areas.ipynb**
+    * Uses a Python 3 kernel to assess the timescale of the progressive erosion of large igneous provinces by comparing estimated original areas (i.e. the area at the time of emplacement) and observed present day areas (i.e. the area preserved today).
+* **Tropical_Rain_Belt.ipynb**
+    * Uses a Python 3 kernel to visualize modern climatological data and estimate the latitudinal width of the tropical rain belt.
+* **recon_tools.py**
+    * Contains functions that assist in analysis/visualization of paleogeographic reconstructions.
+
+### Data
+
+This folder contains the data that are used in the Jupyter notebooks in the **Code** folder.
+
+*Note that the LIP outline data files used in Paleogeographic_Reconstruction.ipynb will be released in conjunction with the AGU book entitled <ins>Environmental Change and Large Igneous Provinces</ins> scheduled to be published in late 2019.*
+
+* **climate**
+    * contains modern climate data used in **Tropical_Rain_Belt.ipynb**
+    * from https://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis.derived.surfaceflux.html
+        * temperature (**tmp.0-10cm.mon.ltm.nc**)
+        * runoff (**runof.sfc.mon.ltm.nc**)
+        * precipitation (**prate.sfc.mon.ltm.nc**)
+        * potential evaporation (**pevpr.sfc.mon.ltm.nc**)
+        * land mask (**lsmask.19294.nc**)
+    * evaporation minus precipitation data (**ERAI.EP.1979-2015.nc**) were taken from https://climatedataguide.ucar.edu/climate-data/era-interim-derived-components
+        * note that the the raw netCDF file (ERAI.EP.1979-2015.nc) was too large to be uploaded to GitHub - we therefore calculate the mean (with respect to time) for each pixel and create a new netCDF file that contains only this mean data, and include this smaller netCDF file within this GitHub repository
+    * another temperature data file (**temp1x1.nc**) is from https://crudata.uea.ac.uk/~timm/grid/CRU_TS_2_1.html
+    * another runoff data file (**runoff1x1.nc**) is from http://www.grdc.sr.unh.edu/
+* **evaporites**
+    * contains evaporite data (location and age) used in **Paleogeographic_Reconstruction.ipynb**
+* **CEED6_POLY_AREA.csv**
+    * contains the area of polygons (tectonic units) used in the paleogeographic model of Torsvik and Cocks (2016), used in **Paleogeographic_Reconstruction.ipynb**
+* **Foster2017a_X.csv**
+    * these files contain the pCO2 proxy compilation of Foster et al. (2017), used in **Paleogeographic_Reconstruction.ipynb**
+* **HALIP_extent.csv**
+    * the observed present day extents of the High Arctic large igneous province, used in **Present_Day_Areas.ipynb**
+* **Ice_Extent.csv**
+    * the latitudinal extent of ice from Macdonald et al. (2019)
+* **LIP_X.csv**
+    * these files contain the area of large igneous province area (both estimated original areas and observed present day areas), used in **Present_Day_Areas.ipynb**
+
+## Manuscript
+
+This folder contains the materials used to generate the submitted manuscript.
+
+* **Figures**
+    * contains the figures used in the manuscript
+* **gsabull.bst**
+    * lets LaTeX know how to style the references
+* **Manuscript.tex**
+    * the LaTeX code used to generate the submitted manuscript.
+* **References.bib**
+    * a database of references that LaTeX uses to generate citations in the manuscript.
+* **Manuscript.pdf**
+    * .pdf of the submitted manuscript
