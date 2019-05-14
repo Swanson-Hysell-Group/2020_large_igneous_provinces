@@ -1,0 +1,519 @@
+Reference,Age_description,Age_Ma,Age_old,Age_young,CO2_ppm,type,CO2_low,CO2_high,CO2_range,Distribution,reported_CO2_low,reported_CO2_high,Notes
+"Pearson et al., 2009 (updated by Anagnostou et al., 2016)",,32.98,,,550,median,455,645,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),360,740,Tanzania Drilling Project sites 12 & 17
+"Pearson et al., 2009 (updated by Anagnostou et al., 2016)",,33.17,,,710,median,595,825,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),480,940,Tanzania Drilling Project sites 12 & 17
+"Pearson et al., 2009 (updated by Anagnostou et al., 2016)",,33.33,,,890,median,745,1035,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),600,1180,Tanzania Drilling Project sites 12 & 17
+"Pearson et al., 2009 (updated by Anagnostou et al., 2016)",,33.47,,,930,median,770,1090,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),610,1250,Tanzania Drilling Project sites 12 & 17
+"Pearson et al., 2009 (updated by Anagnostou et al., 2016)",,33.59,,,690,median,575,805,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),460,920,Tanzania Drilling Project sites 12 & 17
+"Pearson et al., 2009 (updated by Anagnostou et al., 2016)",,33.96,,,870,median,720,1020,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),570,1170,Tanzania Drilling Project sites 12 & 17
+"Pearson et al., 2009 (updated by Anagnostou et al., 2016)",,34.21,,,960,median,795,1125,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),630,1290,Tanzania Drilling Project sites 12 & 17
+"Pearson et al., 2009 (updated by Anagnostou et al., 2016)",,34.42,,,940,median,760,1120,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),580,1300,Tanzania Drilling Project sites 12 & 17
+"Pearson et al., 2009 (updated by Anagnostou et al., 2016)",,34.63,,,810,median,655,965,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),500,1120,Tanzania Drilling Project sites 12 & 17
+"Seki et al., 2010",,0.00,,,266,mean,254,279,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",gaussian distribution is implied (mean = mode),241,291,site 999A
+"Seki et al., 2010",,0.46,,,293,mean,281,306,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",gaussian distribution is implied (mean = mode),268,318,site 999A
+"Seki et al., 2010",,0.90,,,278,mean,265,290,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",gaussian distribution is implied (mean = mode),253,303,site 999A
+"Seki et al., 2010",,1.50,,,279,mean,266,291,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",gaussian distribution is implied (mean = mode),254,304,site 999A
+"Seki et al., 2010",,2.11,,,274,mean,262,287,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",gaussian distribution is implied (mean = mode),249,299,site 999A
+"Seki et al., 2010",,2.59,,,258,mean,246,271,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",gaussian distribution is implied (mean = mode),233,283,site 999A
+"Seki et al., 2010",,2.79,,,283,mean,270,295,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",gaussian distribution is implied (mean = mode),258,308,site 999A
+"Seki et al., 2010",,2.89,,,399,mean,386,411,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",gaussian distribution is implied (mean = mode),374,424,site 999A
+"Seki et al., 2010",,2.99,,,402,mean,389,414,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",gaussian distribution is implied (mean = mode),377,427,site 999A
+"Seki et al., 2010",,3.05,,,428,mean,415,440,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",gaussian distribution is implied (mean = mode),403,453,site 999A
+"Seki et al., 2010",,3.17,,,336,mean,324,349,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",gaussian distribution is implied (mean = mode),311,361,site 999A
+"Seki et al., 2010",,3.50,,,366,mean,354,379,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",gaussian distribution is implied (mean = mode),341,391,site 999A
+"Bartoli et al., 2011",,1.98,,,219,mean,196,245,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),173,271,site 999A
+"Bartoli et al., 2011",,2.03,,,262,mean,236,291,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),210,321,site 999A
+"Bartoli et al., 2011",,2.08,,,246,mean,221,274,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),196,302,site 999A
+"Bartoli et al., 2011",,2.16,,,221,mean,198,247,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),175,274,site 999A
+"Bartoli et al., 2011",,2.17,,,383,mean,348,423,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),314,464,site 999A
+"Bartoli et al., 2011",,2.20,,,386,mean,351,427,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),316,468,site 999A
+"Bartoli et al., 2011",,2.30,,,238,mean,214,265,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),189,293,site 999A
+"Bartoli et al., 2011",,2.50,,,367,mean,334,407,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),301,446,site 999A
+"Bartoli et al., 2011",,2.56,,,310,mean,281,344,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),251,378,site 999A
+"Bartoli et al., 2011",,2.60,,,203,mean,181,227,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),159,252,site 999A
+"Bartoli et al., 2011",,2.69,,,194,mean,172,217,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),151,241,site 999A
+"Bartoli et al., 2011",,2.70,,,358,mean,325,396,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),292,434,site 999A
+"Bartoli et al., 2011",,2.71,,,314,mean,285,348,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),255,383,site 999A
+"Bartoli et al., 2011",,2.71,,,238,mean,214,266,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),190,294,site 999A
+"Bartoli et al., 2011",,2.71,,,334,mean,303,370,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),272,406,site 999A
+"Bartoli et al., 2011",,2.75,,,300,mean,271,333,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),243,366,site 999A
+"Bartoli et al., 2011",,2.77,,,404,mean,367,446,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),331,489,site 999A
+"Bartoli et al., 2011",,2.78,,,418,mean,381,462,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),344,507,site 999A
+"Bartoli et al., 2011",,2.78,,,316,mean,286,350,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),257,385,site 999A
+"Bartoli et al., 2011",,2.80,,,314,mean,285,349,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),255,383,site 999A
+"Bartoli et al., 2011",,2.92,,,241,mean,217,269,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),192,297,site 999A
+"Bartoli et al., 2011",,3.00,,,354,mean,321,392,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),289,430,site 999A
+"Bartoli et al., 2011",,3.07,,,265,mean,239,294,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),213,324,site 999A
+"Bartoli et al., 2011",,3.08,,,411,mean,374,454,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),337,497,site 999A
+"Bartoli et al., 2011",,3.10,,,249,mean,224,277,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),199,306,site 999A
+"Bartoli et al., 2011",,3.16,,,233,mean,209,260,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),185,287,site 999A
+"Bartoli et al., 2011",,3.22,,,242,mean,218,270,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),193,298,site 999A
+"Bartoli et al., 2011",,3.24,,,330,mean,300,366,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),269,402,site 999A
+"Bartoli et al., 2011",,3.26,,,252,mean,226,280,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),201,309,site 999A
+"Bartoli et al., 2011",,3.32,,,274,mean,247,304,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),220,335,site 999A
+"Bartoli et al., 2011",,3.40,,,255,mean,230,284,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),204,313,site 999A
+"Bartoli et al., 2011",,3.41,,,251,mean,226,279,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),201,308,site 999A
+"Bartoli et al., 2011",,3.47,,,292,mean,264,324,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),236,356,site 999A
+"Bartoli et al., 2011",,3.54,,,329,mean,299,365,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),268,401,site 999A
+"Bartoli et al., 2011",,3.59,,,282,mean,255,314,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),228,345,site 999A
+"Bartoli et al., 2011",,3.72,,,310,mean,281,344,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),252,378,site 999A
+"Bartoli et al., 2011",,3.79,,,288,mean,260,319,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),232,351,site 999A
+"Bartoli et al., 2011",,3.87,,,408,mean,371,451,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),335,494,site 999A
+"Bartoli et al., 2011",,3.96,,,295,mean,266,327,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),238,360,site 999A
+"Bartoli et al., 2011",,4.04,,,334,mean,303,371,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),273,407,site 999A
+"Bartoli et al., 2011",,4.12,,,394,mean,358,435,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),323,477,site 999A
+"Bartoli et al., 2011",,4.58,,,425,mean,387,469,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),349,514,site 999A
+"Foster et al., 2012",,12.28,,,190,mean,172,208,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),154,226,site 761B
+"Foster et al., 2012",,12.72,,,223,mean,202,244,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),182,265,site 761B
+"Foster et al., 2012",,13.25,,,244,mean,221,267,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),198,291,site 761B
+"Foster et al., 2012",,13.48,,,243,mean,220,266,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),197,290,site 761B
+"Foster et al., 2012",,13.72,,,240,mean,217,263,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),194,286,site 761B
+"Foster et al., 2012",,13.83,,,257,mean,233,282,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),209,307,site 761B
+"Foster et al., 2012",,14.17,,,268,mean,242,295,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),216,322,site 761B
+"Foster et al., 2012",,14.31,,,272,mean,247,299,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),221,325,site 761B
+"Foster et al., 2012",,14.80,,,374,mean,336,415,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),298,456,site 761B
+"Foster et al., 2012",,15.04,,,332,mean,297,369,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),263,407,site 761B
+"Foster et al., 2012",,15.56,,,298,mean,270,328,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),241,357,site 761B
+"Foster et al., 2012",,15.87,,,392,mean,351,438,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),309,484,site 761B
+"Foster et al., 2012",,16.38,,,225,mean,204,246,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),182,268,site 761B
+"Foster et al., 2012",,11.80,,,247,mean,225,271,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),202,294,site 926A
+"Foster et al., 2012",,13.60,,,232,mean,211,254,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),189,275,site 926A
+"Foster et al., 2012",,14.94,,,346,mean,314,378,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",slight right skew (mode < mean),283,410,site 926A
+"Badger et al., 2013a",cyclostratigraphy and isotope stratigraphy,13.70,,,250,mean,227,274,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",close to Gaussian (mode = mean),204,298, 
+"Badger et al., 2013a",cyclostratigraphy and isotope stratigraphy,13.74,,,255,mean,231,279,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",close to Gaussian (mode = mean),208,303, 
+"Badger et al., 2013a",cyclostratigraphy and isotope stratigraphy,13.74,,,230,mean,208,251,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",close to Gaussian (mode = mean),187,273, 
+"Badger et al., 2013a",cyclostratigraphy and isotope stratigraphy,13.77,,,301,mean,273,329,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",close to Gaussian (mode = mean),244,356, 
+"Badger et al., 2013a",cyclostratigraphy and isotope stratigraphy,13.79,,,283,mean,257,310,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",close to Gaussian (mode = mean),231,336, 
+"Badger et al., 2013a",cyclostratigraphy and isotope stratigraphy,13.80,,,311,mean,282,340,"+/- one standard error; reported uncertainty is +/- 2 standard errors, as determined by varying d11B only (+/- 2 standard errors); because distributions are close to gaussian, the +/- one standard error is calculated here by halving the differentials to the mean",close to Gaussian (mode = mean),253,369, 
+"Greenop et al., 2014",,15.54,,,300,mean,254,357,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),208,413,site 761B
+"Greenop et al., 2014",,15.60,,,442,mean,371,530,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),300,618,site 761B
+"Greenop et al., 2014",,15.61,,,469,mean,394,562,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),319,656,site 761B
+"Greenop et al., 2014",,15.63,,,330,mean,280,391,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),229,453,site 761B
+"Greenop et al., 2014",,15.65,,,294,mean,248,350,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),202,406,site 761B
+"Greenop et al., 2014",,15.69,,,287,mean,238,352,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),189,417,site 761B
+"Greenop et al., 2014",,15.72,,,505,mean,401,682,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),296,858,site 761B
+"Greenop et al., 2014",,15.76,,,291,mean,243,352,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),196,413,site 761B
+"Greenop et al., 2014",,15.77,,,315,mean,261,384,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),207,452,site 761B
+"Greenop et al., 2014",,15.81,,,520,mean,432,638,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),344,757,site 761B
+"Greenop et al., 2014",,15.84,,,435,mean,364,527,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),292,619,site 761B
+"Greenop et al., 2014",,15.89,,,281,mean,237,333,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),194,385,site 761B
+"Greenop et al., 2014",,15.95,,,291,mean,236,369,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),181,448,site 761B
+"Greenop et al., 2014",,15.96,,,318,mean,268,379,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),219,440,site 761B
+"Greenop et al., 2014",,15.98,,,595,mean,496,727,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),398,859,site 761B
+"Greenop et al., 2014",,15.99,,,322,mean,271,387,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),220,451,site 761B
+"Greenop et al., 2014",,16.06,,,293,mean,247,348,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),201,402,site 761B
+"Greenop et al., 2014",,16.12,,,406,mean,334,503,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),262,601,site 761B
+"Greenop et al., 2014",,16.15,,,309,mean,261,366,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),214,423,site 761B
+"Greenop et al., 2014",,16.18,,,271,mean,229,322,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),188,373,site 761B
+"Greenop et al., 2014",,16.21,,,236,mean,197,287,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),157,338,site 761B
+"Greenop et al., 2014",,16.24,,,477,mean,390,603,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),304,728,site 761B
+"Greenop et al., 2014",,16.27,,,278,mean,235,328,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),193,378,site 761B
+"Greenop et al., 2014",,16.30,,,467,mean,392,561,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),317,655,site 761B
+"Greenop et al., 2014",,16.33,,,262,mean,223,309,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),183,357,site 761B
+"Greenop et al., 2014",,16.37,,,502,mean,421,606,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),341,710,site 761B
+"Greenop et al., 2014",,16.40,,,430,mean,362,516,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),293,602,site 761B
+"Greenop et al., 2014",,16.42,,,221,mean,189,261,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),156,300,site 761B
+"Greenop et al., 2014",,16.47,,,532,mean,425,701,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),319,870,site 761B
+"Greenop et al., 2014",,16.59,,,271,mean,230,319,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),188,368,site 761B
+"Greenop et al., 2014",,16.65,,,242,mean,204,284,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),167,327,site 761B
+"Greenop et al., 2014",,16.69,,,236,mean,199,282,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),162,329,site 761B
+"Greenop et al., 2014",,16.76,,,338,mean,285,405,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),231,472,site 761B
+"Greenop et al., 2014",,16.98,,,207,mean,172,250,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),138,293,site 761B
+"Greenop et al., 2014",,17.11,,,252,mean,215,297,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),177,342,site 761B
+"Martinez-Boti et al., 2015",,2.34,,,317,median,281,354,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),281,354,ODP 999
+"Martinez-Boti et al., 2015",,2.35,,,318,median,279,357,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),279,357,ODP 999
+"Martinez-Boti et al., 2015",,2.35,,,306,median,271,342,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),271,342,ODP 999
+"Martinez-Boti et al., 2015",,2.36,,,450,median,395,505,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),395,505,ODP 999
+"Martinez-Boti et al., 2015",,2.37,,,415,median,366,463,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),366,463,ODP 999
+"Martinez-Boti et al., 2015",,2.38,,,371,median,328,416,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),328,416,ODP 999
+"Martinez-Boti et al., 2015",,2.39,,,377,median,334,421,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),334,421,ODP 999
+"Martinez-Boti et al., 2015",,2.41,,,278,median,245,310,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),245,310,ODP 999
+"Martinez-Boti et al., 2015",,2.42,,,332,median,294,371,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),294,371,ODP 999
+"Martinez-Boti et al., 2015",,2.45,,,320,median,283,358,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),283,358,ODP 999
+"Martinez-Boti et al., 2015",,2.47,,,340,median,302,379,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),302,379,ODP 999
+"Martinez-Boti et al., 2015",,2.50,,,357,median,316,398,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),316,398,ODP 999
+"Martinez-Boti et al., 2015",,2.50,,,362,median,321,403,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),321,403,ODP 999
+"Martinez-Boti et al., 2015",,2.52,,,246,median,218,275,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),218,275,ODP 999
+"Martinez-Boti et al., 2015",,2.55,,,335,median,297,374,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),297,374,ODP 999
+"Martinez-Boti et al., 2015",,2.56,,,300,median,265,335,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),265,335,ODP 999
+"Martinez-Boti et al., 2015",,2.58,,,330,median,292,368,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),292,368,ODP 999
+"Martinez-Boti et al., 2015",,2.59,,,362,median,319,405,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),319,405,ODP 999
+"Martinez-Boti et al., 2015",,2.62,,,279,median,246,311,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),246,311,ODP 999
+"Martinez-Boti et al., 2015",,2.62,,,305,median,270,340,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),270,340,ODP 999
+"Martinez-Boti et al., 2015",,2.63,,,245,median,216,274,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),216,274,ODP 999
+"Martinez-Boti et al., 2015",,2.65,,,282,median,249,315,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),249,315,ODP 999
+"Martinez-Boti et al., 2015",,2.66,,,302,median,267,336,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),267,336,ODP 999
+"Martinez-Boti et al., 2015",,2.67,,,263,median,232,294,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),232,294,ODP 999
+"Martinez-Boti et al., 2015",,2.68,,,323,median,286,360,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),286,360,ODP 999
+"Martinez-Boti et al., 2015",,2.69,,,284,median,251,317,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),251,317,ODP 999
+"Martinez-Boti et al., 2015",,2.70,,,276,median,244,308,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),244,308,ODP 999
+"Martinez-Boti et al., 2015",,2.70,,,234,median,205,265,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),205,265,ODP 999
+"Martinez-Boti et al., 2015",,2.70,,,319,median,282,357,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),282,357,ODP 999
+"Martinez-Boti et al., 2015",,2.71,,,262,median,231,294,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),231,294,ODP 999
+"Martinez-Boti et al., 2015",,2.75,,,339,median,300,378,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),300,378,ODP 999
+"Martinez-Boti et al., 2015",,2.75,,,321,median,283,360,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),283,360,ODP 999
+"Martinez-Boti et al., 2015",,2.76,,,358,median,317,400,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),317,400,ODP 999
+"Martinez-Boti et al., 2015",,2.78,,,279,median,247,312,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),247,312,ODP 999
+"Martinez-Boti et al., 2015",,2.80,,,281,median,249,314,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),249,314,ODP 999
+"Martinez-Boti et al., 2015",,2.83,,,317,median,281,355,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),281,355,ODP 999
+"Martinez-Boti et al., 2015",,2.83,,,361,median,314,408,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),314,408,ODP 999
+"Martinez-Boti et al., 2015",,2.84,,,388,median,343,433,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),343,433,ODP 999
+"Martinez-Boti et al., 2015",,2.85,,,308,median,272,343,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),272,343,ODP 999
+"Martinez-Boti et al., 2015",,2.86,,,445,median,392,498,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),392,498,ODP 999
+"Martinez-Boti et al., 2015",,2.91,,,371,median,328,413,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),328,413,ODP 999
+"Martinez-Boti et al., 2015",,2.92,,,377,median,334,420,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),334,420,ODP 999
+"Martinez-Boti et al., 2015",,2.94,,,337,median,299,376,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),299,376,ODP 999
+"Martinez-Boti et al., 2015",,2.95,,,358,median,317,400,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),317,400,ODP 999
+"Martinez-Boti et al., 2015",,2.95,,,419,median,366,473,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),366,473,ODP 999
+"Martinez-Boti et al., 2015",,2.96,,,346,median,307,385,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),307,385,ODP 999
+"Martinez-Boti et al., 2015",,2.98,,,328,median,291,366,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),291,366,ODP 999
+"Martinez-Boti et al., 2015",,3.00,,,369,median,327,412,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),327,412,ODP 999
+"Martinez-Boti et al., 2015",,3.01,,,357,median,316,399,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),316,399,ODP 999
+"Martinez-Boti et al., 2015",,3.03,,,381,median,338,425,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),338,425,ODP 999
+"Martinez-Boti et al., 2015",,3.04,,,419,median,369,470,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),369,470,ODP 999
+"Martinez-Boti et al., 2015",,3.05,,,418,median,371,467,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),371,467,ODP 999
+"Martinez-Boti et al., 2015",,3.06,,,361,median,319,405,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),319,405,ODP 999
+"Martinez-Boti et al., 2015",,3.06,,,413,median,365,462,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),365,462,ODP 999
+"Martinez-Boti et al., 2015",,3.07,,,380,median,336,425,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),336,425,ODP 999
+"Martinez-Boti et al., 2015",,3.09,,,334,median,296,374,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),296,374,ODP 999
+"Martinez-Boti et al., 2015",,3.10,,,319,median,282,357,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),282,357,ODP 999
+"Martinez-Boti et al., 2015",,3.11,,,392,median,347,438,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),347,438,ODP 999
+"Martinez-Boti et al., 2015",,3.13,,,345,median,305,386,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),305,386,ODP 999
+"Martinez-Boti et al., 2015",,3.14,,,334,median,295,373,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),295,373,ODP 999
+"Martinez-Boti et al., 2015",,3.15,,,403,median,343,466,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),343,466,ODP 999
+"Martinez-Boti et al., 2015",,3.16,,,340,median,301,379,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),301,379,ODP 999
+"Martinez-Boti et al., 2015",,3.17,,,452,median,400,505,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),400,505,ODP 999
+"Martinez-Boti et al., 2015",,3.18,,,381,median,337,424,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),337,424,ODP 999
+"Martinez-Boti et al., 2015",,3.19,,,283,median,251,317,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),251,317,ODP 999
+"Martinez-Boti et al., 2015",,3.20,,,331,median,294,370,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),294,370,ODP 999
+"Martinez-Boti et al., 2015",,3.21,,,326,median,289,365,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),289,365,ODP 999
+"Martinez-Boti et al., 2015",,3.22,,,376,median,333,420,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),333,420,ODP 999
+"Martinez-Boti et al., 2015",,3.24,,,423,median,366,481,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),366,481,ODP 999
+"Martinez-Boti et al., 2015",,3.24,,,354,median,314,396,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),314,396,ODP 999
+"Martinez-Boti et al., 2015",,3.25,,,316,median,280,353,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),280,353,ODP 999
+"Martinez-Boti et al., 2015",,3.26,,,348,median,307,390,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),307,390,ODP 999
+"Martinez-Boti et al., 2015",,3.27,,,365,median,319,412,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),319,412,ODP 999
+"Martinez-Boti et al., 2015",,3.28,,,313,median,278,350,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),278,350,ODP 999
+"Martinez-Boti et al., 2015",,2.35,,,369,median,326,413,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),326,413,ODP 662
+"Martinez-Boti et al., 2015",,2.42,,,442,median,385,499,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),385,499,ODP 662
+"Martinez-Boti et al., 2015",,2.50,,,423,median,373,473,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),373,473,ODP 662
+"Martinez-Boti et al., 2015",,2.63,,,402,median,354,450,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),354,450,ODP 662
+"Martinez-Boti et al., 2015",,2.75,,,376,median,330,424,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),330,424,ODP 662
+"Martinez-Boti et al., 2015",,2.83,,,352,median,311,395,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),311,395,ODP 662
+"Martinez-Boti et al., 2015",,3.16,,,525,median,461,592,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),461,592,ODP 662
+"Martinez-Boti et al., 2015",,3.24,,,441,median,385,499,"16 and 84 percentiles; reported uncertainties are 2.5 and 97.5  percentiles as determined through a Monte Carlo style error propagation  of all input factors; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",moderate right skew (mode < mean),385,499,ODP 662
+"Stap et al., 2016",,0.54,,,162,mean,92,233,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),152,173,ODP 1264
+"Stap et al., 2016",,0.54,,,281,mean,209,354,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),263,302,ODP 1264
+"Stap et al., 2016",,0.60,,,163,mean,92,234,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),153,173,ODP 1264
+"Stap et al., 2016",,0.62,,,169,mean,98,240,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),159,180,ODP 1264
+"Stap et al., 2016",,0.76,,,175,mean,102,249,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),155,198,ODP 1264
+"Stap et al., 2016",,0.82,,,152,mean,82,223,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),143,162,ODP 1264
+"Stap et al., 2016",,0.86,,,168,mean,98,239,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),158,179,ODP 1264
+"Stap et al., 2016",,0.94,,,183,mean,112,254,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),172,195,ODP 1264
+"Stap et al., 2016",,1.82,,,250,mean,178,322,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),233,267,ODP 1264
+"Stap et al., 2016",,2.74,,,274,mean,192,362,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),231,327,ODP 1264
+"Stap et al., 2016",,2.89,,,481,mean,400,566,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),439,529,ODP 1264
+"Stap et al., 2016",,3.21,,,423,mean,346,502,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),391,459,ODP 1264
+"Stap et al., 2016",,3.66,,,357,mean,281,434,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),328,389,ODP 1264
+"Stap et al., 2016",,3.89,,,507,mean,426,591,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),466,553,ODP 1264
+"Stap et al., 2016",,4.10,,,380,mean,305,456,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),352,410,ODP 1264
+"Stap et al., 2016",,5.19,,,433,mean,347,523,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),384,490,ODP 1264
+"Stap et al., 2016",,6.35,,,332,mean,257,408,"16 and 84 percentiles; reported uncertainties represent +/- 1 standard deviation of d11B measurements; the authors state that propagating the additional uncertainties associated with salinity, SST, and carbonate ion concentration add +/- 70 ppm of uncertainty to the CO2 estimates; this additional uncertainty has been added here following quadrature",moderate right skew (mode < mean),306,361,ODP 1264
+"Anagnostou et al., 2016",,53.2,53.6,52.8,1400,median,1165,1635,"16 and 84 percentiles; reported uncertainty is 2.5 and 07.5 percentile range; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",gaussian,930,1870,Tanzania Drilling Project
+"Anagnostou et al., 2016",,45.6,45.9,45.5,1100,median,925,1275,"16 and 84 percentiles; reported uncertainty is 2.5 and 07.5 percentile range; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",gaussian,750,1450,Tanzania Drilling Project
+"Anagnostou et al., 2016",,44.4,44.5,44.0,920,median,760,1080,"16 and 84 percentiles; reported uncertainty is 2.5 and 07.5 percentile range; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",gaussian,600,1240,Tanzania Drilling Project
+"Anagnostou et al., 2016",,36.9,37.5,36.3,770,median,620,920,"16 and 84 percentiles; reported uncertainty is 2.5 and 07.5 percentile range; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",gaussian,470,1070,Tanzania Drilling Project
+"Anagnostou et al., 2016",,40.3,40.6,40.0,650,median,540,760,"16 and 84 percentiles; reported uncertainty is 2.5 and 07.5 percentile range; because distributions are close to gaussian, the 16 and 84 percentiles are calculated here by halving the differentials to the mean",gaussian,430,870,Tanzania Drilling Project
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
