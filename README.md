@@ -17,7 +17,7 @@ Non-standard modules used are:
 
 These modules can be installed via pip or conda.
 
-The full computational environment used to execute this code can be found within the XXX file in this repository.
+The full computational environment used to execute this code can be found within the LIP_python3.yml file in this repository.
 
 ### Python 2
 
@@ -31,7 +31,7 @@ In additional to the pygplates library, other non-standard modules used are:
 
 These modules can be installed via pip or conda.
 
-The full computational environment used to execute this code can be found within the XXX file in this repository.
+The full computational environment used to execute this code can be found within the LIP_python2.yml file in this repository.
 
 ### Matlab
 
@@ -56,6 +56,10 @@ This folder contains the Jupyter notebooks that were used to perform the analyse
     * Uses a Python 3 kernel to visualize modern climatological data and estimate the latitudinal width of the tropical rain belt.
 * **recon_tools.py**
     * Contains functions that assist in analysis/visualization of paleogeographic reconstructions.
+* **LIP_python2.yml**
+    * Contains the full computational environment that was used to execute the Jupyter notebooks that require a Python 2 kernel.
+* **LIP_python3.yml**
+    * Contains the full computational environment that was used to execute the Jupyter notebooks that require a Python 3 kernel.
 
 ### Data
 
