@@ -2,7 +2,7 @@
 
 This repository contains data and code associated with the following paper:
 
-Park, Y., Swanson-Hysell, N.L., Macdonald, F.A., Lisiecki, L.E., 2020, (accepted; in press), Evaluating the relationship between the area and latitude of large igneous provinces and Earth’s long-term climate state *Large Igneous Provinces: A Driver of Global Environmental and Biotic Changes. AGU Geophysical Monograph 255*. Preprint available on EarthArXiv: 10.31223/osf.io/p9ndf.
+Park, Y., Swanson-Hysell, N.L., Macdonald, F.A., Lisiecki, L.E., 2021, Evaluating the relationship between the area and latitude of large igneous provinces and Earth’s long-term climate state *Large Igneous Provinces: A Driver of Global Environmental and Biotic Changes. AGU Geophysical Monograph 255*. Preprint available on EarthArXiv: 10.31223/osf.io/p9ndf. Published version available at: https://doi.org/10.1002/9781119507444.ch7
 
 This repository is also archived on Zenodo: https://doi.org/10.5281/zenodo.3981262
 
